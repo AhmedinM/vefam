@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf8"?>
+<players>
+  <player>
+    <name>Cristiano Ronaldo</name>
+    <mark>96</mark>
+  </player>
+  <player>
+    <name>Lionel Messi</name>
+    <mark>96</mark>
+  </player>
+  <player>
+    <name>Luis Suárez</name>
+    <mark>92</mark>
+  </player>
+  <player>
+    <name>Zlatan Ibrahimović</name>
+    <mark>91</mark>
+  </player>
+  <player>
+    <name>Gonzalo Higuaín</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Neymar</name>
+    <mark>92</mark>
+  </player>
+  <player>
+    <name>Robert Lewandowski</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Alexis Sánchez</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Antoine Griezmann</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Eden Hazard</name>
+    <mark>91</mark>
+  </player>
+  <player>
+    <name>Kevin De Bruyne</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Thiago Silva</name>
+    <mark>90</mark>
+  </player>
+  <player>
+    <name>Thomas Müller</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Paul Pogba</name>
+    <mark>86</mark>
+  </player>
+  <player>
+    <name>Sergio Agüero</name>
+    <mark>90</mark>
+  </player>
+  <player>
+    <name>Iniesta</name>
+    <mark>91</mark>
+  </player>
+  <player>
+    <name>Ángel Di María</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Gareth Bale</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Edinson Cavani</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Christian Eriksen</name>
+    <mark>86</mark>
+  </player>
+  <player>
+    <name>Mats Hummels</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Arjen Robben</name>
+    <mark>91</mark>
+  </player>
+  <player>
+    <name>Sergio Ramos</name>
+    <mark>90</mark>
+  </player>
+  <player>
+    <name>James Rodríguez</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Clint Dempsey</name>
+    <mark>83</mark>
+  </player>
+  <player>
+    <name>Romelu Lukaku</name>
+    <mark>84</mark>
+  </player>
+  <player>
+    <name>Pierre-Emerick Aubame...</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Harry Kane</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Marco Reus</name>
+    <mark>86</mark>
+  </player>
+  <player>
+    <name>Diego Godín</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Manuel Neuer</name>
+    <mark>91</mark>
+  </player>
+  <player>
+    <name>Toni Kroos</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Jonas</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Dimitri Payet</name>
+    <mark>83</mark>
+  </player>
+  <player>
+    <name>Dries Mertens</name>
+    <mark>84</mark>
+  </player>
+  <player>
+    <name>Karim Benzema</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Philipp Lahm</name>
+    <mark>90</mark>
+  </player>
+  <player>
+    <name>Isco</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Mario Gómez</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Arturo Vidal</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Blaise Matuidi</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Marek Hamšík</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Mauro Icardi</name>
+    <mark>84</mark>
+  </player>
+  <player>
+    <name>David De Gea</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Hulk</name>
+    <mark>86</mark>
+  </player>
+  <player>
+    <name>Mesut Özil</name>
+    <mark>88</mark>
+  </player>
+  <player>
+    <name>Samir Handanovič</name>
+    <mark>85</mark>
+  </player>
+  <player>
+    <name>Lorenzo Insigne</name>
+    <mark>85</mark>
+  </player>
+</players>

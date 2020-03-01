@@ -1,0 +1,9603 @@
+<?xml version="1.0" encoding="utf8"?>
+<players>
+  <player>
+    <name>Paulo Jorge</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jiri Lenko</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>David Lafata</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Luke Foster</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Grégory Cerdan</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Sergio Arias</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Maxime Josse</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kristoffer Andersen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Sören Halfar</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Sébastian Kollar</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Tomislav Mikulic</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jonathan Fabbro</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Maor Bar Buzaglo</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Elliot Grandin</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jean-Jacques Mandrichi</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jonathan Martins Pereira</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>David Gonzalez</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Alain Cantareil</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Krunoslav Lovrek</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Martin Ehrenreich</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Grégory Beranger</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Cephas Chimedza</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>David Obua</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mario Fillinger</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sylvan Ebanks-Blake</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Roy Contout</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Lee Martin</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Markus Neumayr</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Patrick Seeger</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Omar Kalabane</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Arunas Klimavicius</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Daniel</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Elimane Coulibaly</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jean-Louis Akpa Akpro</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Toró</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Dave Hibbert</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Jordens Peters</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Andreas Lie</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Joakim Sjöhage</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Abbas Hassan</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Sasa Sjanic</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Günther Vanaudenaerde</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jeanvion Yulu-Matondo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Mikael Dahlberg</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Stephen Bradley</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>James Bittner</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Gavin Peers</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Bruno Mezenga</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Marco Jiménez</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Israel Martínez</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gerardo Venegas</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Vit Valenta</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Oleksandr Iakovenko</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Thorsten Stuckmann</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jan Tauer</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Alf Mintzel</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Kenneth Sola</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Tobias Fink</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tarik Elyounoussi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Miguel Fraga</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Petr Lukáš</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Tomáš Lovásik</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Melinho</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Nejc Pečnik</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Siegfried Rasswalder</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Sandro Zakany</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Marc Sand</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Michael Madl</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gerald Gansterer</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Markus Suttner</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Tomáš Šimkovič</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Øyvind Gram</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Edin Salkić</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Kelly Youga</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Eloge Enza-Yamissi</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Óscar Rubio</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Adrian Ricchiuti</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Sergio Floccari</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Emmanuel Cascione</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Francesco Valiani</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Ben Purkiss</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Kenny Gillet</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jean-Francois Kornetzky</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Timo Staffeldt</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Christian Eichner</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Jasmin Fejzić</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Josef Laštovka</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Torsten Oehrl</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Stephan Schröck</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Daniel Adlung</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Juri Judt</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Matteo Ardemagni</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Renato Dossena</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Filippo Savi</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gabriele Paonessa</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Joe Carter</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Toto Tamuz</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Phil Picken</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ohad Kadusi</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Nicki Bille Nielsen</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tomasz Jodłowiec</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Andrew Surman</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Kirk Hudson</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Marco Mancosu</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Francesco Bini</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Adam Hughes</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>James Brown</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Michael Collins</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marcos Painter</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Richard Martin</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Paul Bignot</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Andrew Bond</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Nicky Maynard</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Rodrigo López</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Stefan Stam</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marco Andreolli</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Enrico Alfonso</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Kees van Buuren</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ramon Leeuwin</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Koen van der Biezen</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Derk Boerrigter</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Milano Koenders</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Javier Martina</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Michael Timisela</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marco van Duin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Murat Yıldırım</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Vasileios Pliatsikas</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Sotiris Balafas</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Lee Tomlin</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Marko Marić</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>James Tunnicliffe</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Chris Lines</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Danny Livesey</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Simon Hackney</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Giles Coke</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Alhassan Bangura</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Toumani Diagouraga</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Adrian Mariappa</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Scott Donnelly</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Rhoys Wiggins</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Alberto Frison</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Davide Carcuro</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Óscar Trejo</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Mohamed Fofana</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mahamadou N'Diaye</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Alexandre Bonnet</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Mario Cáceres</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Xavier Pentecôte</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Dimitris Sialmas</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Stergos Marinos</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Divine Fonjock</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Rok Štraus</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Dario Bergamelli</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Alessio Manzoni</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Matteo Scozzarella</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Federico Dionisi</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Daniele Dessena</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Antonino Barillà</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ivan Castiglia</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Nicolas Viola</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Fabio Ceravolo</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nicola Ravaglia</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Manolo Reina</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Torrejón</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Sota Hirayama</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Nicola Donazzan</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Elia Legati</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Pietro Zammuto</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andrea Rossi</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Francesco Volpe</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Siqueira</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Ramón Fernández</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Thomas Charles</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kostas Giannoulis</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Cristiano Del Grosso</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Máyor</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Iain Flannigan</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Tatsuya Tanaka</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Lewin Nyatanga</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Cheick N'Diaye</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jeff Hughes</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Dragan Bogavac</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Trevor Trevisan</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Andris Vanins</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jesús Rueda</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Marco Knaller</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Héverton</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Miles Addison</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Giles Barnes</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mitchell Hanson</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>James Meredith</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Darcy Blake</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Peter Hackmair</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Veli Kavlak</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Christoph Leitgeb</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Gernot Suppan</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Ralph Spirk</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Andreas Lienhart</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Thomas Schönberger</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Jean-Jacques Pierre</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Aitor</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Rômulo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Dragan Mrđja</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Lloyd James</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Kevin Smith</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Ian Morris</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Tom Clarke</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ben Amos</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>David Button</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>John Paul Kissock</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Mark Randall</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Daniel Brauneis</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Jake Thomson</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Josh Walker</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andreas Arestidou</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Lee Sawyer</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Branimir Bajić</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ruz</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Franck Songo'o</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jonathan Vila</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Joselu</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Jason Pearce</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Paul Emslie</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Ryan Cresswell</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Scott Gallacher</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Steven Kinniburgh</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Steven Lennon</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jordan McMillan</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Daniel Parslow</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Simon Ferry</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Paul McGowan</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Nicky Riley</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Mark Millar</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Paul Caddis</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Nicky Law</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Kyle McFadzean</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Stephen Quinn</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Alan Martin</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Ross Forbes</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Darren Smith</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Mark Reynolds</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>James Wilson</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Neil Taylor</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Chris Gunter</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Darren Jones</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Wayne Brown</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Michel</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Luke Joyce</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>John Sullivan</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>De Lucas</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Luke Howell</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Michael Spillane</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Chris Martin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andrew Cave-Brown</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Michael Bostwick</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marvin Williams</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Zamora</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Luke Potter</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Rhys Meynell</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Carlos Valdez</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Neal Eardley</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Deane Smalley</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Shaun Beeley</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Danny Racchi</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>James Berrett</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Gustave Bebbe</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tom Champion</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Steven Leslie</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Brian Allison</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Tam Scobbie</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Osama Al Muwallad</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mantas Savenas</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Danny Haynes</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Nicaise Mulopo Kudimbana</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>José Veiga</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Steven Old</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andrew Boyens</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Server Djeparov</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Nashat Akram Abid Ali</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Rene Mihelič</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Cristian Riveros</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Sunny</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ibrahima Sory Camara</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Moeneeb Josephs</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Siboniso Gaxa</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Siyabonga Nkosi</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Artem Fidler</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jorge Ormeño</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Luton Shelton</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Gabriel Cichero</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Diego Cabrera</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Carlos Vicente Tenorio</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Honour Gombami</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Adam Kokoszka</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Krzysztof Mączyński</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Patryk Małecki</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gabriel Gómez</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Luis Henríquez</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jaime Penedo</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Luis Tejada</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Drissa Diakité</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jimmy Kébé</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Dramane Traore</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Francky Sembolo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Tiko</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Kang Jin Ouk</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Bruno Zita Mbanangoye</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Joetex Frimpong</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Godwin Attram</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Christopher Katongo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Giovanny Espinoza</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Jairo Campos</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Patrício Urrutia</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Lewis Stevenson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ibrahim Gnanou</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Yssouf Koné</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gilberto</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Luis Delgado</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>David Goodwillie</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Matthew Flynn</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Chadli Amri</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ayoze</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Edgar Hernández</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>André Bahia</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Ivan Bandalovski</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tim Vincken</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Barragán</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>David Barron</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Mark Stewart</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Rocco Quinn</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Elmar Bjarnason</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kjartan Finnbogason</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Gary Irvine</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Paul Lawson</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Muslu Nalbantoglu</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Michael O'Connor</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Beau Molenaar</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Armand Traoré</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Matt Derbyshire</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Andy Taylor</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Rostyn Griffiths</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Luke Jones</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Eddie Nolan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Xavier Tomas</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jeremiah White</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Tony Kane</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Joel Byrom</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Frank Fielding</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Raffaele De Vita</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Toni Kolehmainen</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Bedi Buval</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jarosław Fojut</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>James Sinclair</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Israel Villaseñor</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Victor Anichebe</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Patrick Boyle</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jeppe Curth</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Martin Bernburg</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jeppe Brandrup</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Mark Hughes</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Nico Zimmermann</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tomás Klinka</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Elvedin Džinič</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Adam Hammill</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Danny Guthrie</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Lee Peltier</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Calum Woods</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gary Coulibaly</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Darron Gibson</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>David Gray</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ritchie Jones</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Adam Eckersley</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jonathan Grounds</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Graeme Owens</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Gary Liddle</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Peter Hartley</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Tommy Forecast</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Charlie Lee</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Stuart Lewis</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Andy Barcham</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Simon Dawkins</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Myles Weston</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Lawrie Wilson</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jack Cork</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Sam Hutchinson</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Harry Worley</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Liam Bridcutt</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Philipp Gröblinger</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Ishmael Miller</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Asa Hall</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jonas Elmer</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Mohammed Shawky</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mohamed Koffi</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>José Carlos Tabares</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Youssef Adnane</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Connor Smith</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ibrahima Diallo</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Maxime Baca</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jonathan Roufosse</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Badara Sène</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Carlos Luna</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Alejandro Limia</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Andrew Weber</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Niels Hansen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Steffen Wohlfarth</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Colm James</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Ben Turner</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Liam Davis</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jonathan Tuffey</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Anthony Barry</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Craig Reid</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Kevin Thornton</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Mark Carrington</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Freddy Eastwood</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kostyantyn Yaroshenko</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ritchie Sutton</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Owain Fôn Williams</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Adam Dugdale</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Shaun Miller</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Junior Brown</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Byron Moore</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Amari Morgan-Smith</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Paul Anderson</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Damien Lahaye</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Scott Laird</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Hugo Ventura</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Hugo Vieira</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Rui Pedro</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Jon Routledge</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Luke Summerfield</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Alex Lawless</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Chris Zebroski</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Richie Baker</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Yuval Shpungin</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Roy Beerens</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Eliran Atar</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ben Hamer</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Curtis Osano</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Scott Davies</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Scott Rendell</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Rory McArdle</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Robert Duggan</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Ryan Shotton</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ádám Vass</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Martin Paterson</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ryan Gilligan</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Joel Grant</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marvin McCoy</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Theo Robinson</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Mark Davies</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Mark Little</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Stephen Gleeson</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Daniel Jones</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Thomas Stewart</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Kevin O'Connor</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Robert Maah</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Brian Graham</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Krzysztof Nykiel</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Joe Colbeck</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Jon-Paul Pittman</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Felix Bastians</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Brendan Moloney</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Shane Redmond</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Matt Thornhill</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Nathan Arnold</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Joe Anyon</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Eric Odhiambo</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Joe Cardle</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Louis Briscoe</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Luke Prosser</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Marvin Compper</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Steven Gregory</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Alex Nicholls</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ishmel Demontagnac</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>James McKeown</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Richard Taundry</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jennison Myrie-Williams</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Elliot Benyon</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Cole Skuse</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Hernán Dellafiore</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Federico Piovaccari</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Daniele Quadrini</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Raffaele De Martino</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Wilson Tiago</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Lucena</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Chahir Belghazouani</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Francis N'Ganga</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Michael Stanislaw</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jonathan dos Santos</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Fabian Schumacher</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Antonios Petropoulos</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Andy Parrish</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Andy Mangan</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Peter Jungschläger</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jan Zimmermann</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Olivier N'Siabamfumu</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Mané</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Dany N'Guessan</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Frode Larsen</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Stian Rasch</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Jonathan Parr</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Anders Emil Nedrebø</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Magne Simonsen</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Bjorn Ruytinx</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Tail Schoonjans</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Antonio Balzano</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nicola Belmonte</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Michele Franco</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Leonardo Pettinari</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Marino Defendi</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Alejandro Alonso</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Morike Sako</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Juan Pablo Garat</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Daan Van Gijseghem</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dennis Grote</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marc Stein</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sebastian Schuppan</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Leandro Díaz</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ugochukwu Ukah</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Antoine Rey</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Vullnet Basha</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Eudis</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Lima</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marc Twaddle</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jason Thomson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andrew Driver</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Alan Lithgow</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Luca Ferro</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marco Mangold</name>
+    <mark>49</mark>
+  </player>
+  <player>
+    <name>Fulvio Sulmoni</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Daniele Russo</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Mirko Casper</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jani Lyyski</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Tommy Wirtanen</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Conor Sinnott</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Marcos de Azevedo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>James Wesolowski</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Murat Akin</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Paolo Carbone</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Patrick Rossini</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Igor Djuric</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Matthias Henn</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ikechukwu Kalu</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Khaled Mouelhi</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Enrico Schirinzi</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Charles-André Doudin</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Guillaume Faivre</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Bastien Geiger</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Christophe Lambert</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Marc Heitmeier</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Nizamettin Çalışkan</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Sebastian Tyrała</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Nilson</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Ladji Keita</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Bruno Fogaça</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Steven Davies</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Filipe da Costa</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Shikabala</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Maxime Biset</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Mika Ojala</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jajá</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Kyle Letheren</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Shaun MacDonald</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ludovic Guerriero</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Rogelio Chávez</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sastre</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dani Fernández</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Vladislav Kulik</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Javi Moyano</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Azim Fatullaev</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Carlos Esquivel</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>François Marque</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Sotiris Leontiou</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Nagore</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ibrahim Kaş</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nils-Ole Book</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Falcón</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Hamdi Kasraoui</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Obinna Nwaneri</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jack Hobbs</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Owen Garvan</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Richard Soumah</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Antoine Grauss</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Olivier Veigneau</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>David Gigliotti</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Thiago Ribeiro</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Florian Marange</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Fabien Camus</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Cédric Cambon</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Emanuele Pesoli</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Rowen Fernandez</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Łukasz Kowalski</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Krzysztof Sobieraj</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Grzegorz Bonin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Yassin Moutaouakil</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Razak Boukari</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Hermes</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jakub Grzegorzewski</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Maciej Rogalski</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Kevin McHugh</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Michael Timlin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jason Walker</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Frazer Wright</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Habib Jean Baldé</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Paweł Zawistowski</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Bocundji Ca</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Gonzalo Vargas</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Matthias Lepiller</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Angelo</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jason Taylor</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Christer Kleiven</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Espen Børufsen</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gary Dicker</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Brian Gannon</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Paul Byrne</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Alan McNally</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Etienne Esajas</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Iván Carril</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Matheus Vivian</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mariano Izco</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Nicolás Navarro</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Franco Niell</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Gonzalo Prósperi</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Josh Lillis</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Michael Rankine</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Carlos Matheu</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Billy Clarke</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marcos Mondaini</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Ferdinando</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Edílson</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Sandro</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Doka</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Alecsandro</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Cristian Villagra</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Damián Ledesma</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Mohammed Fellah</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nick Hegarty</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Bruno</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Rafael Miranda</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Radosław Janukiewicz</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Robert Szczot</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Krzysztof Wołczek</name>
+    <mark>46</mark>
+  </player>
+  <player>
+    <name>Dariusz Sztylka</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Krzysztof Ulatowski</name>
+    <mark>49</mark>
+  </player>
+  <player>
+    <name>Bartłomiej Chwalibogo...</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Przemysław Pitry</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Łukasz Janoszka</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Wojciech Kędziora</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Maciej Szmatiuk</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Tomasz Podgórski</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Krzysztof Strugarek</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Jakub Wilk</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ebrahima Sawaneh</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Tomasz Lisowski</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marcin Drzymont</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jason Kennedy</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>David Knight</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Jakub Tosik</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kamil Witkowski</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Wilson</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Fellype Gabriel</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Caio</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Cássio</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Walter Acevedo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Darío Bottinelli</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Jorge Ortiz</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Hugo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Dinélson</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Bruno Ribeiro</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Juan</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Jonathan</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Wagner</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Grzegorz Podstawek</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Juan Carlos Henao</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Halisson</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Park Jin Ok</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Lee Dong Sik</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Hwang Ji Yoon</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Son Dae Ho</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Yang Sang Min</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Lee Dong Won</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Oh Jang Eun</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Choi Sung Hwan</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Lee Hyung Sang</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Baek Ji Hoon</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Park Byung Gyu</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Choi Moo Lim</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Noh Jong Gun</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Park Jae Hyun</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Sung Kyung Mo</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Yeo Seong Won</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Baek Young Chul</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Lee Won Young</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Hwang Jin Sung</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Kim Seung Hyun</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Park Yoon Hwa</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Yeom Dong Gyun</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jung Yoo Seok</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Jung Yoon Sung</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Hong Sung Yo</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Do Jae Joon</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Park Woo Hyun</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Shin Young Chul</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jeon Kwang Jin</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Derek Pender</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>János Kovács</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Arthur Zwane</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tinashe Nengomasha</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Gerald Sibeko</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>David Mathebula</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Kaizer Motaung Jr</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Collins Mbesuma</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Michael Funston</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Gary Curran</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Jaime Peters</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Danilo</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Durval</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Bebé</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Vladimir Marín</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Evandro</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Jorge Henrique</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Braulio</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Hakan Balta</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Fatih Öztürk</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>David Buchanan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Colin Kazim-Richards</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Chris Neal</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andreas Brehme</name>
+    <mark>87</mark>
+  </player>
+  <player>
+    <name>Gheorghe Hagi</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Tita</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Gökçek Vederson</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Sassá</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tomáš Abrahám</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Mert Nobre</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Shpëtim Hasani</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>János Balogh</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Róbert Waltner</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Eduardo Sebrango</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Greg Sutton</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tim Brown</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ryan Hall</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Scott Palguta</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jonny Steele</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Preston Burpo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ali Gerba</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Joey Gjertsen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Joshua Wicks</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Terry Boss</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Derrick Etienne Jr.</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Eduardo Lobos</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Makhach Gadzhiev</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gerard O'Callaghan</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Ilya Maksimov</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Dragan Cadikovski</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Barry Murphy</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Magnus Andersen</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Mikhail Kerzhakov</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Lasha Salukvadze</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Alexandr Bukharov</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Chris Turner</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Trevor Carson</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Pa Saikou Kujabi</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Mark Prettenthaler</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>David Sencar</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marat Shogenov</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marc Pugh</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nicky Adams</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Chris McCann</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Neil Danns</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jamie Guy</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Mark Cousins</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Darius Charles</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Karleigh Osborne</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jake Wright</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Lars Grorud</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Petter Bruer Hanssen</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Franco Baresi</name>
+    <mark>92</mark>
+  </player>
+  <player>
+    <name>James Keene</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Marc Wilson</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Axel Bellinghausen</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ivan Nagibin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Roman Vorobiev</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Gökhan Değirmenci</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Bülent Bal</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Anri Khagush</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kai Olav Ryen</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Aaron Shanahan</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Mattias Hugosson</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Daniel Bernhardsson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Daniel Westlin</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Guillermo Rodríguez</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Sergio García</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Stefan Batan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Dmitriy Belorukov</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Terje Reinertsen</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Steffen Hagen</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Nikolay Tsygan</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Jaba Kankava</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Dmitriy Ivanov</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Sergey Kuznetsov</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Ismael Fuentes</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Denis Bukhryakov</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Mario Rodríguez</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Danny Crow</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Aleksandar Radosavljević</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>David Ryan</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Zdeněk Volek</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Michal Kadlec</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Alan Keane</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Alain Nkong</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Danilo Silva</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Carlos Mendes</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Rudnei</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Marquinhos Paraná</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Federico Almerares</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jan Polák</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Chicão</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Cristian Llama</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Josip Tadić</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Solomon Okoronkwo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Oscar Ustari</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Mounir Chaftar</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Dominik Stroh-Engel</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Morten Hæstad</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>André Leone</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Vítor</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Oliver Fink</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Denni Avdić</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ludovic Buysens</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Carl Regan</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Shaun Whalley</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Simon Vukčević</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Miroslav Radović</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Efraín Juárez</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Patricio Araujo</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Omar Esparza</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Christian Sánchez</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jamie Young</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ben Alnwick</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ben Clark</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Richie Ryan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Chris Brown</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Francesco Cosenza</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Benjamin Lambot</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Anthony Scaramozzino</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Adriano Ferreira Pinto</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Ousmane Sarr</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Serisay Barthélémy</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Idriss Ech-Chergui</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ahmed Samir Farag</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Sidi Yaya Keita</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gaëtan Krebs</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Oğuzhan Türk</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Daniel Congré</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Benjamin Psaume</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Thommie Persson</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Behrang Safari</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ablaï Baldé</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Omar Arellano</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Luis Ángel Landín</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Paulino</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Christophe Mandanne</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Paul Henderson</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Peter Gilbert</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Marcin Dymkowski</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Clayton Fortune</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Steven Gillespie</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Ryan Harley</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Joe Anyinsah</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Derek Niven</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Ismael Valadéz</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>David Mulligan</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>David Mirfin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Joe Walsh</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Michael Leary</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Stephen O'Leary</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Keith Keane</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Leon Barnett</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Michael Rose</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Marc Tierney</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Mohamed Chakouri</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Jimmy Mainfroi</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Fatih Atik</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Mathieu Lafon</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jérôme Cellier</name>
+    <mark>50</mark>
+  </player>
+  <player>
+    <name>Vincent Durand</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Alan Goodall</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Tomasz Brzyski</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Remigiusz Jezierski</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Dawid Sołdecki</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tyrone Loran</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Steven Jennings</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Chris Dagnall</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Carl Tremarco</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Craig Morgan</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Silva</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Maceo Rigters</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Cobeño</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Diego León</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Tébar</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Andrea Cristiano</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Roberto Previtali</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Emiliano Testini</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Achille Coser</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Filippo Antonelli Ago...</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Gianni Zuiverloon</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Michele Troiano</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Andrea Bovo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Daniele Ficagna</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Fabio Caserta</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Jorge Alonso</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mariano Stendardo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Davide Marchini</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Emmanuel Osei</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Steven Anderson</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mattia Biso</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Maurizio Lauro</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Barreto</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Iacopo La Rocca</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Alessio Sestu</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Alexis Thébaux</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Therry Racon</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Leyti N'Diaye</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jamie Coyne</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>George Weah</name>
+    <mark>89</mark>
+  </player>
+  <player>
+    <name>Quero</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Lee Croft</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Stephen Jordan</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Willo Flood</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Oriol</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dino Fava Passaro</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Dudu Cearense</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Richard Offiong</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Zvonimir Deranja</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Nauzet</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Youssef Mohamad</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Nivaldo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Lauro</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Aranha</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Gustavo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Douglas</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Roger</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Weldon</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Anselmo</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Édson Bastos</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Carlos Alberto</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Paulo Baier</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rodrigo Tabata</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Josué</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Paulo André</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Etto</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Renato Silva</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Evandro Roncatto</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Daniel Fernandes</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Willian</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Josef Dvorník</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>David Kotrys</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>David Bystroň</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mario Lička</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Michal Papadopulos</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Adam Varadi</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Aleš Neuwirth</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Dustley Mulder</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Michael Pook</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Cícero</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Claudio Pani</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Francesco Pisano</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Mattia Marchesetti</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Andrea Esposito</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Roberto D'Aversa</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Gennaro Esposito</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Mirko Pieri</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jesper Mathisen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Bojan Božović</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>James O'Connor</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Thiago</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Zito</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Mamadou Alimou Diallo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Stefan Rodevåg</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Stanley Aborah</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jamie Ward</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Gabriel Agbonlahor</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Pita</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Henrich Bencik</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Adam Miller</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Emmanuel Sarki</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Anders Karlsen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Aleksandar Vasoski</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Marc-André Kruska</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jemal Johnson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Francisco Mendoza</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Bill Gaudette</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Clyde Simms</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ugo Ihemelu</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Kevin Goldthwaite</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Danny O'Rourke</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gonzalo Segares</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ruben Imingen</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Robert Braber</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Hunter Freeman</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Dan Gargan</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jay Nolly</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Scott Sealy</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jeff Larentowicz</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tony Lochhead</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>James Riley</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jason Hernandez</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Tim Ward</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Erik Midtgarden</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Thomas Kristensen</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>David Raven</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tim Hoogland</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>José Mota</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jonas Brix-Damborg</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Martin Pedersen</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Ruben Nygaard</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jesper Lange</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Stephen Dawson</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Steinar Ryen Strømnes</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Gábor Horváth</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Zsolt Laczkó</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Daniel Theorin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Csaba Somogyi</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Olivér Pusztai</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>György Sándor</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Scott Robertson</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Craig Sives</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Calum Elliot</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Chris Hogg</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ivan Sproule</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Brian McLean</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Steven Smith</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Stefán Gíslason</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Michael Townsend</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Rui Sacramento</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ivanildo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Bruno Gama</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Johnny Mullins</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Joel Lynch</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>John Spicer</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Tim Sparv</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Targino</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Jacobo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Rafa Jordá</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Israel</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Val Baiano</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Paulo Nagamura</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Miloš Dimitrijević</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Grégory</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Luís Tinoco</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mamadou Diallo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Peter Ramage</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Alan O'Brien</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Cyril Théréau</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Édouard Duplan</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Edi Andradina</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Sebastian Madera</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Adrian Klepczyński</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Sławomir Szeliga</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Bartosz Iwan</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Marek Wasiluk</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Tomasz Górkiewicz</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Mariusz Sacha</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Carlos Javier Acuña</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Vuk Sotirović</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jerold Promes</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sekou Cissé</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Mateusz Bąk</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jakub Biskup</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Yoav Ziv</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ştefan Radu</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Piotr Petasz</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Guy Moussi</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Eugen Polański</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Sebastian Freis</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Bănel Nicoliţă</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Joe Ledley</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Cameron Jerome</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Cleiton Xavier</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Nilmar</name>
+    <mark>83</mark>
+  </player>
+  <player>
+    <name>Diego Barcelos</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Niki Mäenpää</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Thomas Sørensen</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Pablo Ibáñez</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Pablo García</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Gorka Brit</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Laurent Walthert</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Pablo Calandria</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Veljko Paunovic</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Moisés</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Lopez Ramos</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Francisco Palencia</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Joel Griffiths</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Alexis</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Alex Geijo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Pernía</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Pulido</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Pachón</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Javier Muñoz Mustafá</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sousa</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Raúl López</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sergio</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>David García</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Mainz</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Iriney</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Fernando</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Tote</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Antoñito</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Juanlu</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Quique Martín</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Héctor Font</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Xisco Nadal</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gerard</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Calle</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Andy Gray</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gareth Edds</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Killian Overmeire</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Lukáš Jarolím</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Carlos Ruíz</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Benjamin Baltes</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Luís Alberto</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Valdomiro</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Marcelo Nicácio</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jonas Ivens</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Gregor Robertson</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Stefan Reisinger</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Paulo César</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Mineiro</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Fábio Santos</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marcelo Mattos</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Marcinho</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Fábio Simplício</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Itamar</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Tom Muyters</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Park Jin Sub</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Han Jae Woong</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Choi Won Kwon</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Kim Sung Jae</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Lee Chun Soo</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Park Dong Hyuk</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Lee Joon Young</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Kim Yi Sub</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Kim Gi Dong</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Lee Jong Min</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Woo Sung Yong</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Son Seung Jun</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Seo Dong Won</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Hyun Young Min</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Choi Hyun</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Byun Sung Hwan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Park Yong Ho</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kim Dong Jin</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Cho Sung Hwan</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Namgung Do</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Namgung Woong</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Park Joo Sung</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Choi Jong Bum</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Ko Chang Hyun</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Kim Sang Rok</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Kim Dae Eui</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Park Dong-Suk</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Cho Joon Ho</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Kim Chi Gon</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Josh Wolff</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Cho Byung Kuk</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Kwon Jeong Hyuk</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Kim Han Yoon</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Saïd Boutahar</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Khalid Boulahrouz</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Jason Oost</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Joost Broerse</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Martin Jørgensen</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Ramon Zomer</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Bogdan Lobonţ</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Denis Berger</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Sérgio da Silva Pinto</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Petr Johana</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Pavel Pergl</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>René Bolf</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Nabil Aslam</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gábor Gyepes</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Zoltán Gera</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Sebastian Hofmann</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Bakari Koné</name>
+    <mark>80</mark>
+  </player>
+  <player>
+    <name>Michaël Ciani</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Marek Mintál</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Jamal Alioui</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Paolo Acerbis</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Filippo Carobbio</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Riccardo Colombo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ruben Garlini</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Edoardo Gorini</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Marco Gorzegno</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Matteo Gritti</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Mirco Poloni</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Cristian Raimondi</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Pierre Regonesi</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Mirco Gasparetto</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Daniele Daino</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Brian Carroll</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Paul Jones</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Fernando</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Salvatore Aronica</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Mirko Savini</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Ernst Öbster</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Luigi Lavecchia</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Franco Brienza</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Salvatore Bruno</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Walter Bressan</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Paolo Bianco</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marcello Cottafava</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Francesco Galeoto</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>William Pianu</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Pasquale Foggia</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Francesco Parravicini</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Gianluca Grava</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Massimo Paci</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Domenico Giampá</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Houssine Kharja</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Luis Antonio Jiménez</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Saidu Alade Adeshina</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Tomás Guzman</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Dominik Reinhardt</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ricardo Clark</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Shalrie Joseph</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Pat Noonan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Simone Motta</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Lionel Cappone</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Aurélien Faivre</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Arnaud Maire</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>David Sauget</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Nicola Mingazzini</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Daniel Baier</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Simone Farelli</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marco Fortin</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Christophe Lepoint</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jiayi Shao</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Biagio Pagano</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dario Biasi</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Massimo Gobbi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Alessandro Gazzi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Papa Waigo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Andrea Pisanu</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Daniele Croce</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Carlo Luisi</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Vittorio Micolucci</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Adriano Russo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Raffaele Rubino</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Luca Antonini</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Matteo Paro</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Thomas Job</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Maurizio Lanzaro</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Giulio Migliaccio</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Jan-Ingwer Callsen-Br...</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Souleymane Diamoutene</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jürgen Gjasula</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Oliver Schröder</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Giuseppe Abruzzese</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Drissa Diarra</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Erminio Rullo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Rocco Sabato</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Simone Loria</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Antonio Langella</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Mauro Esposito</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Joao Paulo di Fabio</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Cristian Bucchi</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Brian Wilson</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Davide Carrus</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marco Esposito</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Chris Iwelumo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Arnold Kruiswijk</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Alexander Huber</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Michele Pazienza</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Torsten Mattuschka</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Björn Brunnemann</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Danko Lazović</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Boy Waterman</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Bartolomej Kuru</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Goitia</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Rafael Kazior</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Alexander Bugera</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jan Glinker</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Bas van den Brink</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Anouar Hadouir</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jeroen Verhoeven</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Karim Bridji</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gijs Luirink</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Martin Stoll</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ivan Saenko</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Benjamin Reichert</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Necat Aygün</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Darlington Omodiagbe</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Robert Lechleiter</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Francesco Benussi</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Simone Rizzato</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jürgen Romano Colin</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ronald Graafland</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Domenico Maietta</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Francesco Millesi</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gaetano Vastola</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Valerio Di Cesare</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Marcos</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Thiago Gentil</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Corrêa</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Elson</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Magrão</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Lúcio</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Gláuber</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marco Storari</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Landry Bonnefoi</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Alessandro Parisi</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Swen König</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Salva</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Christian Stuff</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marcel Eger</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Štěpán Vachoušek</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Salim Arrache</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Antoine Buron</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jordan Lotiès</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Pierre Bouysse</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Gennaro Bracigliano</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Eric Sitruk</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Thomas Burgstaller</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Franck Signorino</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Shavar Thomas</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Pape Malikou Diakhaté</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mickaël Chrétien</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Nicky Hunt</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Lasse Kryger</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Jesper Jørgensen</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Anders Egholm</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Taylor Graham</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jack Jewsbury</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Nicklas Carlsson</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>György Garics</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Krzysztof Bąk</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>John Welsh</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Darren Potter</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jon Otsemobor</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Zak Whitbread</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jamal Campbell-Ryce</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Stacy Long</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Chris Shuker</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Russell Anderson</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Darren Mackie</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Chris Clark</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Kevin Rutkiewicz</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ryan Esson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Kevin Stuhr-Ellegaard</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Zander Diamond</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Scott Morrison</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Richard Foster</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Lloyd Dyer</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tamika Mkandawire</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dean Leacock</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Arron Davies</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Chris Baird</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Josh Saunders</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Pat Onstad</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Roger Levesque</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Brian Ching</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ricardo Silva</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Angulo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Cacá</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gino Coutinho</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Patrick McCarthy</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Nadjim Abdou</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sebastian Olszar</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Christian Thonhofer</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>David Fox</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Hussain Yasser</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Matthew Kilgallon</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Simon Johnson</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Arnaud Bühler</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Gerardo Seoane</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Alain Schultz</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Andy Whing</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Graham Barrett</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>David Pipe</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Gary McSheffrey</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jeff Smith</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Ricardinho</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Souza</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Gabriel</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marco Antônio</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Martin Vaniak</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Radim Kučera</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Gonçalo Brandão</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>David Rozehnal</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Jaroslav Černý</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Patrik Siegl</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Aleš Urbánek</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Stanislav Vlček</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>João Paulo</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Toño</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Ángel</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Vladan Kujovic</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Eric Addo</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ken Leemans</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ahmed Ammi</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>David van Zanten</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Babacar Guèye</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Niels Wellenberg</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Demy de Zeeuw</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Danny Buijs</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Civard Sprockel</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Alberto Aguilar</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Perico</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Paco Esteban</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>José Luis Acciari</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gabriel Milito</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Guirane N'Daw</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sabri Loan Boumelaha</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jean-Pascal Mignot</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Ümit Karan</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Jay McEveley</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Leandre Griffit</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Yoann Folly</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Almen Abdi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Issa Cissokho</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Alex Mineiro</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Stéphen Drouin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Emerse Faé</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Luigi Glombard</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Loïc Guillon</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Vincent Péricard</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Niclas Jensen</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Chris O'Grady</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tommy Wright</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Billy Jones</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Kasper Risgård</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Stéphane Dumont</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Daniel Nardiello</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ben Williams</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Koray Arslan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Maximiliano López</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Guillermo Ariel Pereyra</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Dean Brill</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Ezequiel González</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Colin McMenamin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Nico Herzig</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dean Lewington</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Nigel Reo-Coker</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Lino</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Davide Moscardelli</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Andrea Parola</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Andrea Pinzan</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Nicola Princivalli</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marco Rigoni</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Marcos António</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Pietro Accardi</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Matteo Contini</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Kim Ji Hyuk</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Daniele Di Donato</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Michele Ferri</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Andrea Gasbarroni</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Salvatore Masiello</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Vincenzo Sicignano</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Evans Soligo</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Massimo Bonanni</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Luca Rigoni</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Roberto Vitiello</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Matteo Abbate</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Cristian Bertani</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Ayodele Stephen Makinwa</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Felice Piccolo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Bryan Bergougnoux</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Antolín Alcaraz</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Juriy Cannarsa</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Maurizio Ciaramitaro</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tomas Danilevičius</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Claudio Grauso</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Nicola Pavarini</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marc Pfertzel</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Richard Vanigli</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Luca Vigiani</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Tiago Gomes</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>José Antonio Castro</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Sebastián Abreu</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Álvaro Ortíz</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ignacio Torres</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sergio Bernal</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Joaquín Beltrán</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Manuel de la Torre</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Israel López</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Israel Castro</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Leandro Augusto</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ismael Íñiguez</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Luke Oliver</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Roberto Abbondanzieri</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Sebastián Battaglia</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Miguel Caneo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Franco Cángele</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rolando Schiavi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Omar Pérez</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Álvaro</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Fernando Dinis</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Manuel José</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Zé Manel</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Márcio</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Paulo Assunção</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Fabrizio Zambrella</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Anthony Favre</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Juan de Dios Ibarra</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Ismael Rodríguez</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Héctor Castro</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jesús Arellano</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Guillermo Franco</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Tibert Pont</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Wade Barrett</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Kris Taylor</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Andy Nicholas</name>
+    <mark>52</mark>
+  </player>
+  <player>
+    <name>Brian Howard</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Joel Sánchez</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Héctor Reynoso</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ramón Morales</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rafael Medina</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jaír García</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Alberto Medina</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Isaac Romo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Alonso Sandoval</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Miguel Sabah</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Baek Min Chul</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Fabián Vargas</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Roberto Colautti</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>André Bikey</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Lucien Aubey</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Eduardo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Daniel Lopar</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Kristian Nushi</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Mario Schönenberger</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Rogerio</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>David McGurk</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Simon Whaley</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Terry Dunfield</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tom Kennedy</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Adnan Mravac</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Markus Böcskör</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Ricky Ravenhill</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Andy Holdsworth</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Kevin Foley</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Neil Austin</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Rory Fallon</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Antony Kay</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gary Jones</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Robbie Williams</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Dean Sinclair</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>No Byung Jun</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kim Tae Min</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Do Hwa Sung</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Anderson Polga</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Song Jung Hyun</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Hong Soon Hak</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Yoon Ju Il</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Kim Jung Kyum</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Kim Hyo Il</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Ju Kwang Yoon</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Park Jong Jin</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Park Kyoo Sun</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jeon Jae Woon</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Chung Kyung Ho</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>You Kyoung Youl</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Park Jae Hong</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Moustapha Salifou</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Lee Kwang Jae</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Kim Sang Sik</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Oh Seung Bum</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Cho Won Hee</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kim Dae Keon</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Kim Young Chul</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Park Ho Jin</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Alan Connell</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Matt Harrold</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Pat Baldwin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Greg Halford</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dean Gerken</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Gino Padula</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marcus Bean</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Dennis Oli</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Francisco Torres</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jin Kyung Sun</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Lee Kwan Woo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kevin McKenna</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Rémi Mareval</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Hugh Murray</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Julien Delonglée</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Peter Gitselov</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Denis Velić</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Paulo Ferreira</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Pier Graziano Gori</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Salvatore Russo</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Francesco Montervino</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Simone Tiribocchi</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Steffen Rasmussen</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Luigi Riccio</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Keith Southern</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Benjamin Gavanon</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Julio Colombo</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Craig Westcarr</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Niels Lodberg</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Martin Bergvold</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Søren Jensen</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Fabiano Adriano Rossato</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Vidas Alunderis</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Simon Rolfes</name>
+    <mark>80</mark>
+  </player>
+  <player>
+    <name>Mikkel Thygesen</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Brandão</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Yasin Avci</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Ilčo Naumoski</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Daniel Wolf</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Michael Niedrig</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Alexander Meyer</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Markus Husterer</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Barbaros Barut</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Piotr Trochowski</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Daniel Ziebig</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>André Poggenborg</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Oliver Kirch</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jörg Hahnel</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Andreas Biermann</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ronny König</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Elyasa Süme</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ahmet Cebe</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marco Sejna</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marjan Petkovic</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Oliver Barth</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Christian Müller</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marcel Busch</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Emil Noll</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Lee Beevers</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Peter Sweeney</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marco Donadel</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Nadir Belhadj</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Sergiy Serebrennikov</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kwame Quansah</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tommy Naurin</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kristian Haynes</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Dennis Melander</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Steven Whittaker</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Michael Fraser</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Logan Bailly</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Birger Maertens</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Kevin Roelandts</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jimmy Hempte</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Tamandani Nsaliwa</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Philipp Heerwagen</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Maximilian Nicu</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Anthony Obodai</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Michael Klukowski</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tosin Dosunmu</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Denis Dessaer</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Gunter Thiebaut</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Markus Heikkinen</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Sanharib Malki</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Wojciech Szymanek</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Antoni Łukasiewicz</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Christian Obodo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Michael Agazzi</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Santos</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Denis Godeas</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Stefano Lucchini</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Giandomenico Mesto</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Andrea Mantovani</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Alberto Maria Fontana</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Giuseppe Gemiti</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Franco Semioli</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Mario Santana</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Ali Turan</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>İbrahim Öztürk</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Özgür Çek</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Hürriyet Güçer</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Murat Önür</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mehmet Çoğum</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Hasan Salih Kabze</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ömer Erdoğan</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Xavier Margairaz</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ariel Ortega</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Sabri Sarıoğlu</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Cihan Haspolatlı</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Felipe</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Mohamed Sarr</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ahmet Görkem Görk</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Filip Daems</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Serkan Balcı</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Souleymane Youla</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>El Saka</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Gökhan Tokgöz</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ümit Bozkurt</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Orhan Şam</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Doğa Kaya</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Giray Kaçar</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Bora Körk</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Bülent Ataman</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Ersan Gülüm</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Yiğit İncedemir</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mehmet Topuz</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Ergün Teber</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Bülent Kaan Bilgen</name>
+    <mark>51</mark>
+  </player>
+  <player>
+    <name>Orhan Ak</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Hakan Arıkan</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Ersin Demir</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Mustafa Sarp</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Adem Koçak</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Isaac Boakye</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Emre Güngör</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mehmet Yıldız</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>John Baird</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Björn Lindemann</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Aleksandar Kotuljac</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marcel Schied</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Carsten Busch</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>İbrahim Akın</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Abdullah Durak</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Güven Varol</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Merter Yüce</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Daniel Embers</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Veigar Páll Gunnarsson</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mimoun Azaouagh</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Milorad Peković</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ufuk Ceylan</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Henri Sillanpää</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Veli Lampi</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Paul McShane</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Skerdilaid Curri</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Leon Andreasen</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Casper Ankergren</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Francis Dickoh</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Rasmus Würtz</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Emil Hallfreðsson</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Jonas Gudni Sævarsson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Mingo</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Rivas</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Juanito</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Varela</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Capi</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>De Coz</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Melli</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Diego Reyes</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dani</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Maldonado</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Lewis Hunt</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Izale McLeod</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jacques Faty</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Pa Dembo Touray</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Tomas Zvirgzdauskas</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jesper Westerberg</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Johan Svensson</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Kaspars Gorkšs</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Yousef Fahkro</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Dušan Djurić</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mark Otten</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Grégory Bourillon</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Kristof Lardenoit</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Björn Vleminckx</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Marco Né</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Marcus Hall</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Malik Fathi</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Sofian Chahed</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Alexander Ludwig</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ryan Jarvis</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Stephen Dobbie</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Kirk Broadfoot</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Florent Chaigneau</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marco Christ</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Roberto Hilbert</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Peter André Perchtold</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>David Preece</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Marouane Chamakh</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Steve Sidwell</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Ronnie Stam</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Arjan Christianen</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Chiguy Lucau</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ángel</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Robbie Haemhouts</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Jan Frederiksen</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Doni</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Vinicius</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Enrico Neitzel</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Patrick Milchraum</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Daniel Gunkel</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Esben Hansen</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Anders Lindegaard</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Jim McAlister</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Chris Millar</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Martin Lanig</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Rubinho</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Coelho</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Anderson</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Betão</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Marquinhos</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Kléber</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Ibrahim Kargbo</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Michael Jansen</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Mario Majstorovic</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Marc Planus</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Luque</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Marco Haller</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Václav Svěrkoš</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>David Suarez</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Carlos Alberto</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Junior Cesar</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rodolfo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Diego</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Cássio</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Fernando</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jônatas</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Rodrigo Souto</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Wescley</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Fabiano Eller</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Almir</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Camacho</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Túlio</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Thomas Hansen</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Cicinho</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Michel</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Fábio Júnior</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Luiz Alberto</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Eric Marester</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Christian Nade</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Wendel</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Deivid</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Cris</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Alessandro</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ivan</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Rodrigo Galatto</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Lucas</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Gilberto</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Tinga</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Gabriel Tamaş</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Claiton</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Romain Poyet</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>David Hellebuyck</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Guillaume Norbert</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Nery Castillo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Kristján Örn Sigurdsson</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Davide Possanzini</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Nicoló Consolini</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Neca</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rolf-Christel Guié-Mien</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Emmanuel Krontiris</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Michael Ratajczak</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Clemens Fritz</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Otto Fredrikson</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sascha Kirschstein</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tomasz Kuszczak</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Timo Ochs</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Daniel Haas</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Mathias Abel</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Kim Madsen</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Patrick Platins</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ali Bilgin</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Giuseppe Greco</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Najeh Braham</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Pavel Drsek</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Peter Schyrba</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Ralf Keidel</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Carsten Rothenbach</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marco Engelhardt</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Danny Fuchs</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Antônio da Silva</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Sead Mehic</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Jens Langeneke</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tim Gorschlüter</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Stephan Sieger</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Goran Šukalo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Reiner Plaßhenrich</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Andreas Görlitz</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Markus Miller</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Adam Drury</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Gary Holt</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Darel Russell</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Paul McVeigh</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Alessandro Frara</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Angelo Barletta</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Dexter Langen</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Vitaliy Kutuzov</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>David Lucas</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Graham Alexander</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Rob Edwards</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dajan Simac</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Filip Trojan</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mauro Minelli</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Simone Padoin</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Vlado Smit</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Claudio Terzi</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Marco Pisano</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Luca Belingheri</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Stefano Morrone</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Petri Pasanen</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Stefan Leitl</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Ranisav Jovanović</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ivica Grlić</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Bernd Rauw</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Olivier Caillas</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Florian Heller</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ieroklis Stoltidis</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Joël Epalle</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Matt Hill</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tommy Doherty</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Craig Woodman</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Damian Spencer</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Kyriakos Stamatopoulos</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Marlon Broomes</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Deon Burton</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Seol Ki Hyeon</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>John Oster</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Andrea Cossu</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Riccardo Taddei</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Marcin Malinowski</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Alan Dunne</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Mark Phillips</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Ben May</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Gerald Sibon</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Nicolas Timmermans</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Sebastiano Siviglia</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Herbert Rauter</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Jürgen Säumel</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Leandro Cufré</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Carlo Zotti</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Mahamet Diagouraga</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Klaus Salmutter</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marco Malagó</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Massimo Mutarelli</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Marco Carparelli</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Philipp Bönig</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Marius Ebbers</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Benjamin Köhler</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Tom Brighton</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Jan Kjell Larsen</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Trond Erik Bertelsen</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>John Anders Bjørkøy</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Jarl André Storbæk</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Dag Roar Ørsal</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Espen Næss Lund</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Birger Madsen</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Daniel Braaten</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Riccardo Scimeca</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>David Prutton</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Barry Roche</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Marlon Harewood</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Chris Doig</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Brian Cash</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>John Thompson</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Michael Gurski</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Youssef Mokhtari</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Kai Risholt</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Anders Østli</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Stephan Loboué</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sven Müller</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Bernt Haas</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Daniel Thioune</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Lionel Pizzinat</name>
+    <mark>55</mark>
+  </player>
+  <player>
+    <name>Richarlyson</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Moris Carrozzieri</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Patrick Owomoyela</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Alessandro Grandoni</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Grétar Steinsson</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Bjarni Ólafur Eiríksson</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ivar Andreas Forn</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Daniele Martinelli</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Diego Luis López</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>François Modesto</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Andrea Capone</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Eirik André Lamøy</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Aleksandar Vuković</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Mariusz Zganiacz</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Alexander Iashvili</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Felipe</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dennis Kruppke</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Lars Jungnickel</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gurpegi</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Łukasz Nawotczyński</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Paweł Strąk</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Piotr Brożek</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marcelinho Paraíba</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Tomasz Kiełbowicz</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Maciej Iwański</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Karel Geraerts</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Adriano</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Edward Cecot</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Dennis Eilhoff</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Mozart</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Julien François</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Casas</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Alex Goikoetxea</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Endika Bordas</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Arriaga</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Azkorra</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Tressor Moreno</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Marek Szyndrowski</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Łukasz Surma</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Dickson Choto</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Júnior</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Gabri</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Dani Tortolero</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Óscar López</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Luca Fusco</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Juri Tamburini</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Marc Zoro</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Giacomo Tedesco</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mourad Meghni</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Alberto Comazzi</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Davide Brivio</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Max von Schlebrügge</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Michael Langer</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Marc Ziegler</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Cyrille Merville</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Benjamin Genton</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Yohann Pelé</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Mickaël Tacalfred</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Johan Audel</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Clément Maury</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Andrea Campagnolo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Rudolf Zedi</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>René Renno</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Tom Starke</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Markus Thorandt</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Kristian Nicht</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Markus Bollmann</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Markus Krösche</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Markus Daun</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tim Jerat</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Collin Benjamin</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Deniz Dogan</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Roland Schwegler</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Bakary Diakité</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Veroljub Salatić</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Eduardo</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Pascal Grünwald</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Evandro</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Kris De Wree</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Marco Streller</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Julio Hernan Rossi</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Frankie Hejduk</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Wim De Decker</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Manasseh Ishiaku</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Moreno Merenda</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Christian Weber</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Peter Løvenkrands</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Robert Malcolm</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Youssef El-Akchaoui</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mark Wilson</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ochoa</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Dorado</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Pelegrín</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Generelo</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Jorge Pina</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Luciano</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Jonathan Aspas</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Borja Oubiña</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>César</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Dani Mallo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Josemi</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Gerardo</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Miguel Ángel</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Manolo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Nacho</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Juanma</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Rubén Reyes</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Carlos García</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Ceballos</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Crusat</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Corominas</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Tariq</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Carmelo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Josico</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Lafuente</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dele Adebola</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Oleguer</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Jofre</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Albert Riera</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Dani Güiza</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Xisco Campos</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kike Mateo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Chando</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Rubén</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Carlos Sánchez</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Borja Fernández</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Marcos</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Gaspar</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Tena</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Óscar</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Rubén Sanz</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>De Lucas</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Mora</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Aganzo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Kevin Kyle</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Sebastián Saja</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Jonathan Santana</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Facundo Erpen</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Víctor López</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Maximiliano Velázquez</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>David Vega</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Fabián Cubero</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Fabricio Fuentes</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Leandro Gracián</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Roberto Nanni</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Patricio Pérez</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mariano Uglessich</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Javier Gandolfi</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Román Martínez</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Mariano Barbosa</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Julio Barraza</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Enrique Bologna</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Marcos Adrián Galarza</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Christian Martínez</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Fernando Ortíz</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Juan Quiroga</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Guillermo Barros Sche...</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>José María Calvo</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Iarley</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Cristian Muñoz</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Javier Cámpora</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Gonzalo De Porras</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Germán Herrera</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Emiliano Papa</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Leonardo Talamonti</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Jair Benítez</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ismael Blanco</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Giovanni Hernández</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Iván Moreno y Fabianesi</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Martín Romagnoli</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Iván Furios</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Diego Rivero</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Marcelo Carrusca</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ernesto Farías</name>
+    <mark>77</mark>
+  </player>
+  <player>
+    <name>Marcos Gelabert</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Pablo Lugüercio</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Diego Herner</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Andrés Madrid</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Juan Carlos Olave</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Emiliano Dudar</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Juan Eluchans</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Damián Manso</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Emanuel Rivas</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Cristian Zurita</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Ezequiel Carboni</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Rodrigo Díaz</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Santiago Hoyos</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Juan Carlos Mariño</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Agustín Pelletieri</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Furkan Özçal</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Giani Kirita</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Tayfun Cora</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Karel D'Haene</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ergin Keleş</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Michael Petkovic</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Hans Somers</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Fatih Tekke</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Ibrahima Yattara</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Mehmet Hilmi Yılmaz</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Tolga Zengin</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Hüseyin Çimşir</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Maciej Kowalczyk</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sergey Omelyanchuk</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Oleksandr Aliyev</name>
+    <mark>79</mark>
+  </player>
+  <player>
+    <name>Florin Cernat</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Badr El Kaddouri</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Jerko Leko</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Gastón Aguirre</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Leandro Fernández</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Guillermo Marino</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Luciano Palos</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Ariel Javier Rosada</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Germán Ré</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Darío Sala</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Roberto Saucedo</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Luciano Vella</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Diego Villar</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Olcan Adın</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Serhat Akin</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Can Arat</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Kemal Aslan</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Hakan Bayraktar</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Mehmet Aurelio</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Ali Mehmet Güneş</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Selçuk Şahin</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Tuncay</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Yusuf Şimşek</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Kerim Zengin</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Servet Çetin</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Milan Jovanović</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Zvonimir Vukić</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Uğur Boral</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Baki Mercimek</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Kerem Şeras</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Bora Sevim</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ali Tandoğan</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Gökhan Ünal</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Aykut Erçetin</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Serdar Kurtuluş</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ovidiu Petre</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Dániel Tőzsér</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Aydın Yılmaz</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Onur Bayramoğlu</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ferhat Öztorun</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Erdal Güneş</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Bekir İrtegün</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Kaya Tarakçı</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>İbrahim Toraman</name>
+    <mark>78</mark>
+  </player>
+  <player>
+    <name>Murat İbrahim Uslu</name>
+    <mark>48</mark>
+  </player>
+  <player>
+    <name>Cem Can</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Oğuz Dağlaroğlu</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Muhammet Demir</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Alioum Saidou</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mehmet Yozgatlı</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Çağlar Birinci</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Hüzeyfe Dogan</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Ceyhun Eriş</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Santiago Salcedo</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Ayman</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Sancak Kaplan</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Tolga Seyhan</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Emrah Tuncel</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Mustafa Koray Avcı</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Zeki Korkmaz</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Fahri Tatan</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Yekta Kurtuluş</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Genc Mehmeti</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Yassin Mikari</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Christian Schwegler</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>David Zibung</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Genséric Kusunga</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Albert Bunjaku</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Fernando</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Marcel Herzog</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Franz Burgmeier</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Stéphane Nater</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Martin Stocklasa</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Christian Schlauri</name>
+    <mark>53</mark>
+  </player>
+  <player>
+    <name>Mounir El Haimour</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Mustafa Sejmenovic</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Tolgahan Acar</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Necati Ateş</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Tevfik Köse</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Murat Şahin</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Sedat Bayrak</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Abdurrahman Dereli</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Muhammet Özdin</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Erman Özgür</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Emre Aşık</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Gökhan Zan</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Serdar Özkan</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>İbrahim Üzülmez</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Erman Güraçar</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Bekir Ozan Has</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Egemen Korkmaz</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Serdar Kulbilge</name>
+    <mark>75</mark>
+  </player>
+  <player>
+    <name>Çağdaş Atan</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Bülent Ertuğrul</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Sercan Güvenisik</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Souleymanou Hamidou</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Mustafa Keçeli</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Ersen Martin</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Yavuz Özkan</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Burhan Eşer</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Ahmet Şahin</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Sedat Ağçay</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Martin Andersson</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Jari Ilola</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Fredrik Risp</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Karl Svensson</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Johan Rickard Andersson</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Kristian Bergström</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Johan Nilsson-Guiomar</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Jon Inge Høiland</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Joakim Nilsson</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Thomas Olsson</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>John Alvbåge</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Gaspar</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Leandro Greco</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Paulo Menezes</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Reto Bolli</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Cristian Ianu</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Angelo Raso</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Josip Colina</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Muhamed Demiri</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Giuseppe Morello</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Alessandro Iandoli</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Daniel Stucki</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Jérôme Schneider</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Gabriel Wüthrich</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Matias Esteban Cenci</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Sutil</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Castilla</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>David Prieto</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Aitor Blanco</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Cifu</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Sergio Torres</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Mairata</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Marco Navas</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Velasco</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Cuerda</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Siro Darino</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Pepe Díaz</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Francis</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Juan Pablo</name>
+    <mark>54</mark>
+  </player>
+  <player>
+    <name>Fredrik Björck</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Martin Mutumba</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Babis Stefanidis</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Marcus Sahlman</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Txiki</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Robert</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>David Valle</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Juande</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Sergio Fernández</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mora</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Vicente</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Edu Navarro</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Sergio Rodríguez</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Bruno Saltor</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Isaac Jové</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Dorca</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Diego Rangel</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Amantegui</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Gerard Bordas</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Manolo Martínez</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Felip</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Diego Jiménez</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Alexander Östlund</name>
+    <mark>72</mark>
+  </player>
+  <player>
+    <name>Enrique</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Jaime</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Marcos Márquez</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Belencoso</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>De Navas</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>José Vega</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Rubén Vega</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Ivan Agustin</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Cabrero</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Javi Hernández</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Sergio Francisco</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Sendoa</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Juli</name>
+    <mark>70</mark>
+  </player>
+  <player>
+    <name>Cerra</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Chema</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mantecón</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Dealbert</name>
+    <mark>74</mark>
+  </player>
+  <player>
+    <name>Rodri</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Mora</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Serra</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Óscar Serrano</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Chechu Flores</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Matamala</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Otermin</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Sito Castro</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Anthony Vosahlo</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Freire</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Rubén Pérez</name>
+    <mark>56</mark>
+  </player>
+  <player>
+    <name>Rubén Durán</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>Cabrera</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Asier Salcedo</name>
+    <mark>57</mark>
+  </player>
+  <player>
+    <name>Capdevila</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Ion Vélez</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>David Sanz</name>
+    <mark>58</mark>
+  </player>
+  <player>
+    <name>Tito</name>
+    <mark>76</mark>
+  </player>
+  <player>
+    <name>Quini</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Javi Barral</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Carlos Caballero</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Gonzalo García</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Seoane</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Barber</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Óscar Pérez</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Stéphane Pignol</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Momo</name>
+    <mark>71</mark>
+  </player>
+  <player>
+    <name>Patrick Kisnorbo</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Dioh Williams</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Alan Hutton</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Stephen O'Donnell</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Jason Scotland</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Graeme Smith</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Gary McDonald</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>David McNamee</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Jamie McAllister</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Burton O'Brien</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Jon-Paul McGovern</name>
+    <mark>61</mark>
+  </player>
+  <player>
+    <name>James McPake</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Cédric Berthelin</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Gary Borrowdale</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Alessandro Cordaro</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Lee Wilkie</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Gavin Rae</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Thomas Helveg</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Craig Conway</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>David Proctor</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Marko Perović</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>John Rankin</name>
+    <mark>65</mark>
+  </player>
+  <player>
+    <name>Lee Mair</name>
+    <mark>62</mark>
+  </player>
+  <player>
+    <name>Garry Brady</name>
+    <mark>60</mark>
+  </player>
+  <player>
+    <name>Michele Anaclerio</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Maurizio Pugliesi</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Michael Modubi</name>
+    <mark>63</mark>
+  </player>
+  <player>
+    <name>Marcel Seip</name>
+    <mark>66</mark>
+  </player>
+  <player>
+    <name>Dmitriy Sychev</name>
+    <mark>73</mark>
+  </player>
+  <player>
+    <name>Evgeniy Aldonin</name>
+    <mark>68</mark>
+  </player>
+  <player>
+    <name>Mark De Man</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Goran Lovre</name>
+    <mark>69</mark>
+  </player>
+  <player>
+    <name>Christian Wilhelmsson</name>
+    <mark>67</mark>
+  </player>
+  <player>
+    <name>Tom Van Imschoot</name>
+    <mark>64</mark>
+  </player>
+  <player>
+    <name>Bart Goossens</name>
+    <mark>59</mark>
+  </player>
+  <player>
+    <name>Kurt Van Dooren</name>
+    <mark>66</mark>
+  </player>
+</players>

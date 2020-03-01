@@ -1,0 +1,10 @@
+<?php
+
+$host = "127.0.0.1";
+$username = "root";
+$password = "";
+$databasename = "fantasym";
+
+$conn = new mysqli($host,$username,$password,$databasename);
+
+?>

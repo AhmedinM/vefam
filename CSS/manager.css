@@ -1,0 +1,918 @@
+*{
+  margin: 0;
+  padding: 0;
+  /*font-family: Century Gothic;*/
+
+}
+header{
+/*background-color: #00589B;*/
+background-color: #151A16;
+margin-top: 0px;
+padding: 40px;
+}
+
+
+ul{
+  float: left;
+  list-style-type: none;
+  margin-top: -19px;
+  margin-left: 85px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #0195D5;
+  padding: 7px 17px;
+ border: 1px solid transparent;
+  transition: 0.6s ease;
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 17px;
+
+}
+
+ul li a:hover{
+  background-color: white;
+  color: black;
+}
+
+ul li.active a{
+  background-color: white;
+  color: black;
+}
+
+/* https://www.designevo.com/apps/logo/?name=black-sportsman-and-football*/
+.logo img{
+float: left;
+  width: 145px;
+ height: auto;
+height: 80px;
+  margin-top: -40px;
+  margin-left: -74px;
+}
+.rot{
+  color: #0195D5;
+    transition: 0.6s ease;
+    border: 1px solid transparent;
+      border-radius: 1%;
+        padding: 7px 20px;
+
+}
+.rot:hover{
+  background-color: white;
+  color: black;
+}
+.main{
+  max-width: 1200px;
+  margin: auto;
+  background-color: #162C75;
+
+}
+.heder{
+  background-color: red;
+}
+ .title{
+   position: absolute;
+   top: 50%;
+  /* left: 50%;*/
+   transform: translate(17.5%,-80%);
+/*  transform: translate(10%,50%);*/
+ }
+ .title h4{
+   color: white;
+   position: absolute;
+  /* left: 50%;*/
+   transform: translate(2.5%, 100%);
+   font-family: "Gill Sans", sans-serif;
+
+/*  transform: translate(10%,50%);*/
+ }
+
+ .title h2{
+   color: white;
+   font-size: 53px;
+
+ }
+ .title h3{
+   color: white;
+
+ }
+ .podnaslov{
+  /* top: 111%;
+   position: absolute;
+   transform: translate(20%,-50%);
+   font-family: "Gill Sans", sans-serif;*/
+   text-align: center;
+ }
+
+ .button{
+   position: absolute;
+   top: 64%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   font-family: "Gill Sans", sans-serif;
+ }
+
+ .btn{
+   font-family: "Gill Sans", sans-serif;
+   border: 1px solid #0074D9;
+   background-color: #0074D9;
+   padding: 11px 31px;
+   color: white;
+   text-decoration: none;
+   transition: 0.6s ease;
+ }
+ .btn:hover{
+   background-color: white;
+   color: #0074D9;
+   border: 1px solid white;
+ }
+
+
+
+
+
+ .fab{
+   margin-top: 10px;
+ }
+
+
+.footer-distributed{
+  font-family: Century Gothic;
+	background-color:  #151A16;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 50px 50px 60px 50px;
+	margin-top: 400px;
+/*  font-family: Georgia, serif;*/
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+	width: 33%;
+}
+
+.footer-distributed h3{
+	color:  #ffffff;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+
+/* The company logo */
+
+.footer-distributed .footer-left img{
+	width: 42%;
+
+}
+
+.footer-distributed h3 span{
+	color:  green;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+}
+
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+	width: 35%;
+  font-family: "Gill Sans", sans-serif;
+}
+
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #ffffff;
+	vertical-align: middle;
+	margin:0;
+}
+
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+	color:  green;
+	text-decoration: none;;
+}
+
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+	width: 30%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 35px;
+	height: 41px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+
+/* Here is the code for Responsive Footer */
+/* You can remove below code if you don't want Footer to be responsive */
+
+
+@media (max-width: 880px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+
+.lh li {
+  list-style: none;
+}
+
+.lh li a {
+  position: relative;
+  width:40px;
+  height:40px;
+  display:block;
+  text-align:center;
+  margin:0 8px;
+  border-radius: 50%;
+  padding: 2px;
+  text-decoration:none;
+  transition: .5s;
+  color: gray;
+}
+
+.lh li a .fa {
+  width: 100%;
+  height:100%;
+  display:block;
+
+  border-radius: 50%;
+  font-size:20px;
+  color: #262626;
+  transition: .5s;
+}
+
+.footer-distributed .footer-icons a:nth-child(1) a:hover {
+  color: #3b5998;
+}
+
+#f1:hover {
+color:#3b5998;
+}
+
+#f2:hover {
+  color: #007bb6;
+}
+
+#f3:hover {
+  color: #bd081c;
+}
+
+#f4:hover {
+  color: #e4405f;
+}
+#f5:hover{
+ color: #c4302b;
+}
+
+
+
+
+
+
+input {
+  display: none;
+}
+
+label {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 20px;
+color: white;
+  border-radius: 4px;
+background-color: inherit;
+
+  font-family: arial;
+  -webkit-transition: background-color 0.1s, color 0.1s;
+}
+
+label:hover {
+
+}
+
+.test {
+  -webkit-transition: height .3s ease;
+  height: 0;
+  overflow: hidden;
+  width: 159.9px;
+/*  background: #1A1A1D;*/
+background: #171717;
+  margin-top: 22.3px;
+  margin-left: 79.8%;
+}
+.test p a{
+  padding-top: 15px;
+  padding-left: 10px;
+  color: #CDCCCC;
+  text-decoration: none;
+  font-family: system-ui;
+}
+.test p{
+  padding: 9px;
+}
+.test p a:hover{
+  color: white;
+}
+
+
+input:checked + .test {
+  height: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*,:after,:before{box-sizing:border-box}
+.clearfix:after,.clearfix:before{content:'';display:table}
+.clearfix:after{clear:both;display:block}
+a{color:inherit;text-decoration:none}
+.login-wrap{
+  width:100%;
+  margin:auto;
+  margin-top: 20px;
+  max-width:505px;
+  min-height:570px;
+  position:relative;
+  background:green no-repeat center;
+  box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+border-radius: 10px;
+}
+.login-html{
+  width:100%;
+  height:609px;
+  position:absolute;
+  padding:30px 70px 40px 70px;
+  background: green;
+  margin-bottom: -50px;
+  border-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+.login-html .sign-in-htm,
+/*.login-html .sign-up-htm*/{
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  position:absolute;
+  -webkit-transform:rotateY(180deg);
+          transform:rotateY(180deg);
+  -webkit-backface-visibility:hidden;
+          backface-visibility:hidden;
+  transition:all .4s linear;
+}
+.login-html .sign-in,
+/*.login-html .sign-up,*/
+.login-form .group .check{
+  display:none;
+}
+.login-html .tab,
+.login-form .group .label,
+.login-form .group .button{
+  text-transform:uppercase;
+}
+.login-html .tab{
+  font-size:22px;
+  margin-right:15px;
+  padding-bottom:5px;
+  margin:0 15px 10px 0;
+  display:inline-block;
+  border-bottom:2px solid transparent;
+}
+.login-html .sign-in:checked + .tab,
+./*login-html .sign-up:checked + .tab*/{
+  color:#fff;
+  border-color: black;
+}
+.login-form{
+  min-height:345px;
+  position:relative;
+  -webkit-perspective:1000px;
+          perspective:1000px;
+  -webkit-transform-style:preserve-3d;
+          transform-style:preserve-3d;
+}
+.login-form .group{
+  margin-bottom:0px;
+}
+.login-form .group .label,
+.login-form .group .input,
+.login-form .group .button{
+  width:100%;
+  color: green;
+  display:block;
+  cursor: pointer;
+       cursor: hand;
+}
+.login-form .group .input,
+.login-form .group .button{
+  border:none;
+  padding:15px 20px;
+  border-radius:25px;
+  background: white;
+}
+.login-form .group input[data-type="password"]{
+  text-security:circle;
+  -webkit-text-security:circle;
+}
+.login-form .group .label{
+  color: black;
+  font-size:12.5px;
+}
+.login-form .group .button{
+/*background: black;*/
+/*background-color: #05091D;*/
+background-color: #02061C;
+opacity: 1;
+margin-top: 30px;
+}
+.login-form .group label .icon{
+  width:15px;
+  height:15px;
+  border-radius:2px;
+  position:relative;
+  display:inline-block;
+  background: black;
+}
+.login-form .group label .icon:before,
+.login-form .group label .icon:after{
+  content:'';
+  width:10px;
+  height:2px;
+  background:#fff;
+  position:absolute;
+  transition:all .2s ease-in-out 0s;
+}
+.login-form .group label .icon:before{
+  left:3px;
+  width:5px;
+  bottom:6px;
+  -webkit-transform:scale(0) rotate(0);
+          transform:scale(0) rotate(0);
+}
+.login-form .group label .icon:after{
+  top:6px;
+  right:0;
+  -webkit-transform:scale(0) rotate(0);
+          transform:scale(0) rotate(0);
+}
+.login-form .group .check:checked + label{
+  color:#fff;
+}
+.login-form .group .check:checked + label .icon{
+  background: black;
+}
+.login-form .group .check:checked + label .icon:before{
+  -webkit-transform:scale(1) rotate(45deg);
+          transform:scale(1) rotate(45deg);
+}
+.login-form .group .check:checked + label .icon:after{
+  -webkit-transform:scale(1) rotate(-45deg);
+          transform:scale(1) rotate(-45deg);
+}
+.login-html .sign-in:checked + .tab /*+ .sign-up*/ + .tab + .login-form .sign-in-htm{
+  -webkit-transform:rotate(0);
+          transform:rotate(0);
+}
+.login-html .sign-up:checked + .tab + .login-form /*.sign-up-htm*/{
+  -webkit-transform:rotate(0);
+          transform:rotate(0);
+}
+#tab-2{
+  cursor: none;
+}
+.hr{
+  height:2px;
+  margin:40px 0 25px 0;
+  background: white;
+}
+.foot-lnk{
+  text-align:center;
+}
+.reg{
+  cursor: pointer;
+       cursor: hand;
+}
+.reg:hover{
+  color: #28282A;
+}
+.login-form .group .button:hover{
+  background-color: #28282A;
+  color: white;
+
+}
+.label{
+  margin-bottom: 5px;
+}
+
+#myBtn, #bat{
+  cursor: pointer;
+}
+.modal{
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 20px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+  font:600 16px/18px 'Open Sans',sans-serif;
+}
+.modal-content {
+
+  margin: auto;
+  width: 45%;
+}
+
+/* The Close Button */
+.close {
+color: white;
+  float: right;
+  margin-right: 30px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.moja{
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: -50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.7);
+  font:600 16px/18px 'Open Sans',sans-serif;
+}
+.mojasad{
+
+  margin: auto;
+  width: 45%;
+}
+
+
+.klous {
+color: white;
+  float: right;
+  margin-right: 30px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.klous:hover,
+.klous:focus {
+
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Career{
+  color: white;
+  padding: 15px;
+}
+
+
+.slk{
+  float: left;
+  margin-left: 18px;
+  padding: 1px;
+  border: 6px solid rgba(245, 245, 245, 0.1);;
+}
+
+
+.opis{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+
+.dr{
+  margin-left: 85px;
+}
+
+.krit{
+  color: green;
+}
+.podaci{
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.pod{
+/*background:rgba(255,255,255,0.5);*/
+background-color: rgba(245, 245, 245, 0.1);
+  margin-left: 230px;
+  padding-left: 2px;
+  margin-right: 750px;
+  padding: 3px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+
+.pl{
+  position: absolute;
+  right: 555px;
+  top: 147px;
+}
+
+.plo{
+  position: absolute;
+  right: 454px;
+  top: 175px;
+  font-size: 15px;
+
+}
+.plod{
+  color:green;
+  background-color: rgba(245, 245, 245, 0.1);
+    padding: 3px;
+    margin-right: 0px;
+    width: 180px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.pk{
+  position: absolute;
+  right: 105px;
+  top: 143px;
+  /*background-color: rgba(245, 245, 245, 0.1);*/
+  height: 220px;
+  width: 220px;
+  padding-left: 59px;
+  padding-top: 5px;
+}
+
+#god{
+  margin-left: 132px;
+}
+#dan{
+  margin-left: 80px;
+}
+
+#oba{
+  margin-left: 90px;
+}
+#oba1{
+  margin-left: 88.5px;
+}
+#club{
+  margin-left: 128px;
+}
+#league{
+  margin-left: 108.5px;
+}
+
+h4{
+  padding: 30px;
+  color: green;
+}
+.cl{
+  margin-left: 70px;
+  color: green;
+  font-weight: 600;
+}
+.p{
+  margin-left: 200px;
+  color: green;
+}
+.w{
+  margin-left: 120px;
+  color: green;
+}
+.d{
+  margin-left: 120px;
+  color: green;
+}
+.l{
+  margin-left: 120px;
+  color: green;
+}
+.gf{
+  margin-left: 120px;
+}
+.ga{
+  margin-left: 120px;
+}
+.gd{
+  margin-left: 120px;
+}
+.red{
+  font-size: 14px;
+  color: green;
+  font-weight: 550;
+}
+
+.red2{
+  font-size: 15px;
+  background-color: rgba(245, 245, 245, 0.1);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.klub{
+  margin-left: 40px;
+}
+
+.okvir{
+  background-color: rgba(245, 245, 245, 0.05);
+  margin-left: 18px;
+  margin-right: 18px;
+  border-radius: 5px;
+  color: white;
+
+}
+
+.poeni{
+float: right;;
+margin-right: 974.5px;
+/*margin-top: -36px;*/
+width: 8px;
+height: 8px;
+}
+.win{
+  float: right;
+  margin-right: 840px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.draw{
+  float: right;
+  margin-right: 703.5px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.lost{
+  float: right;
+  margin-right: 568.5px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.goalsf{
+  float: right;
+  margin-right: 435.5px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.goalsa{
+  float: right;
+  margin-right: 300.5px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.goalsd{
+  float: right;
+  margin-right: 167.5px;
+  margin-top: -17.5px;
+  width: 8px;
+  height: 8px;
+}
+.red3{
+  font-size: 15px;
+  margin-left: 30px;
+}
+#poslednje{
+  padding-bottom: 15px;
+}
+#prazno{
+  height: 15px;
+}
+
+
+.proba{
+  position: absolute;
+}
+
+.test{
+  position: relative;
+}
