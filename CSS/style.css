@@ -11,52 +11,7 @@ margin-top: 0px;
 padding: 40px;
 }
 
-ul{
-  float: right;
-  list-style-type: none;
-  margin-top: -20px;
-}
 
-ul li{
-  display: inline-block;
-}
-
-ul li a{
-  text-decoration: none;
-  color: #0195D5;
-  padding: 5px 20px;
- border: 1px solid transparent;
-  transition: 0.6s ease;
-
-
-}
-
-ul li a:hover{
-  background-color: white;
-  color: black;
-}
-
-ul li.active a{
-  background-color: white;
-  color: black;
-}
-/* https://www.designevo.com/apps/logo/?name=black-sportsman-and-football*/
-.logo img{
-float: left;
-  width: 145px;
- height: auto;
-height: 80px;
-  margin-top: -40px;
-  margin-left: -74px;
-}
-.rot{
-  color: #0195D5;
-    transition: 0.6s ease;
-    border: 1px solid transparent;
-      border-radius: 1%;
-        padding: 7px 20px;
-      
-}
 .rot:hover{
   background-color: white;
   color: black;
@@ -67,52 +22,32 @@ height: 80px;
   background-color: #162C75;
 
 }
-.heder{
-  background-color: red;
+h1{
+  color: white;
+  font-size: 55px;
+  font-weight: 550;
 }
- .title{
-   position: absolute;
-   top: 50%;
-  /* left: 50%;*/
-   transform: translate(17.5%,-80%);
-/*  transform: translate(10%,50%);*/
+ .naslov{
+   color:white;
+margin-top: 140px;
+
+ }
+ .rol{
+   margin-bottom: -300px;
  }
  .title h4{
    color: white;
-   position: absolute;
-  /* left: 50%;*/
-   transform: translate(2.5%, 100%);
-   font-family: "Gill Sans", sans-serif;
-
-/*  transform: translate(10%,50%);*/
+   padding-left: 14%;
+   padding-right: 14%;
+   font-size: 16px;
+   font-weight: 550;
  }
 
- .title h2{
-   color: white;
-   font-size: 53px;
-
- }
- .title h3{
-   color: white;
-
- }
  .podnaslov{
-  /* top: 111%;
-   position: absolute;
-   transform: translate(20%,-50%);
-   font-family: "Gill Sans", sans-serif;*/
    text-align: center;
  }
 
- .button{
-   position: absolute;
-   top: 64%;
-   left: 50%;
-   transform: translate(-50%,-50%);
-   font-family: "Gill Sans", sans-serif;
- }
-
- .btn{
+ .btnd{
    font-family: "Gill Sans", sans-serif;
    border: 1px solid #0074D9;
    background-color: #0074D9;
@@ -121,10 +56,18 @@ height: 80px;
    text-decoration: none;
    transition: 0.6s ease;
  }
- .btn:hover{
+
+
+ .button {
+align-items: center;
+text-align: center;
+   font-family: "Gill Sans", sans-serif;
+ }
+ .btnd:hover{
    background-color: white;
    color: #0074D9;
    border: 1px solid white;
+   text-decoration: none;
  }
 
 
@@ -685,4 +628,51 @@ color: white;
 
   text-decoration: none;
   cursor: pointer;
+}
+
+
+
+
+
+
+ul li a{
+  text-decoration: none;
+  color: #0195D5;
+  padding: 5px 20px;
+ border: 1px solid transparent;
+  transition: 0.6s ease;
+ font-family: Helvetica, Arial, sans-serif;
+ padding: 20px;
+ padding-top: 30px;
+
+}
+
+ul li a:hover{
+  background-color: green;;
+  color: black;
+}
+#navbarSupportedContent ul li a{
+  color: white;
+
+}
+
+#profile a .dropdown-item{
+  color: black;
+}
+
+#navbarDropdown #profile{
+  font-size: 25px;
+}
+#profile a:hover{
+  background-color: grey;
+}
+@media (max-width: 1100px) {
+
+#navbarSupportedContent ul li a{
+  margin-top:10px;
+}
+}
+
+#src{
+  color: green;
 }

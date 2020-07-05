@@ -16,7 +16,6 @@ $rowO = $resO->fetch_assoc();
 
 $number = $rowO["number"];
 */
-$number = 3;
 ?>
 
 <!DOCTYPE html>
@@ -30,14 +29,26 @@ $number = 3;
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="CSS/styleI.css">
-<link rel="stylesheet" href="CSS/validateI.css">
+<link rel="stylesheet" href="CSS/style.css">
+<link rel="stylesheet" href="CSS/validate.css">
 <link rel="stylesheet" href="CSS/fmcup.css">
 <script src="JS/fmcup.js" defer></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-<script src="JS/js.js" charset="utf-8" defer></script>
-<style>
-body  {
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <script src="JS/js.js" charset="utf-8" defer></script>
+   <!--<style>/*
+   body  {
+   background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/3.jpg) /*repeat 0 0 */ no-repeat center center fixed;
+   height: 70%;
+   background-position: center;
+   background-size:cover;
+*/
+   }
+  </style>-->
+
+  </head>
+  <body>
+  <style>
+  body  {
       
       background-image:  url(img/league.jpg);
       background-repeat: no-repeat;
@@ -46,13 +57,7 @@ body  {
       
       
       }
-</style>
-</head>
- 
-  
-  
-  
-	   <body>
+      </style>
  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#" style = "margin-left:-15px;margin-top:-12.5px; margin-bottom:-12.5px;">
           <img style="height: 81px;" src="img/logo.jpg" alt="Logo">
@@ -94,7 +99,7 @@ body  {
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
-	</nav>
+    </nav>
 	
     <!--<br><br><br><br>
     <img src="img/fmcup.jpg" alt="Nema" id="slika">
@@ -108,8 +113,8 @@ body  {
     </div>
 
     <div id="table" class="tabcontent" style="display: block">
-      <br>
-  	  <br>
+      <br/>
+  <br>
 
       <div class="container okvir">
 	  
@@ -531,12 +536,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo "</td> <td>".$number."</td> <td>".$row2["sum"]."</td>  </tr>  <tr class=\"roow\">  <td class=\"unk\">";
+				 echo "</td> <td>".$number."</td> <td>".$row2["sum"]."</td>  </tr>  <tr class=\"row\">  <td class=\"unk\">";
 				 }
 				}
 				else if($brojac==2)
@@ -573,12 +578,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo "</td> <td>".$number."</td> <td>".$row2["sum"]."</td>  </tr>  <tr class=\"roow\">  <td class=\"unk\">";
+				 echo "</td> <td>".$number."</td> <td>".$row2["sum"]."</td>  </tr>  <tr class=\"row\">  <td class=\"unk\">";
 				 }
 				}
 				else if($brojac==2)
@@ -614,12 +619,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -654,12 +659,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -694,12 +699,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -734,12 +739,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -774,12 +779,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -814,12 +819,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -857,12 +862,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item1"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item1"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -899,12 +904,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item1"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item1"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -941,12 +946,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item1"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item1"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -983,12 +988,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item1"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item1"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -1027,12 +1032,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item3"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item3"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -1069,12 +1074,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item3"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item3"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -1113,12 +1118,12 @@ body  {
 			 $brojac+=1;	
 				if($brojac==1)
 				{
-					echo'<li class="team-item3"> <table class="tbl">  <tr class="roow">  <td class="unk">'; 
+					echo'<li class="team-item3"> <table class="tbl">  <tr class="row">  <td class="unk">'; 
 					$timid=$row['team_id'] ;
 				 $sql2="SELECT * FROM user_teams  WHERE id='$timid'";
 				 $result2=$con->query($sql2);
 				 while($row2=mysqli_fetch_array($result2)){echo $row2['name'] ;
-				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="roow">  <td class="unk">';}
+				 echo '</td> <td>'.$number.'</td> <td>'.$row2["sum"].'</td>  </tr>  <tr class="row">  <td class="unk">';}
 				}
 				else if($brojac==2)
 				{
@@ -1139,57 +1144,57 @@ body  {
 
         </div><!--kraj-->
 
-    </div>
+        </div>
+
+        </div>
 
 </div>
-		
 <footer class="footer-distributed">
 
-	<div class="footer-left">
-		<img src="img/logo.jpg">
-		<h3>About<span>VEFAM</span></h3>
+<div class="footer-left">
+<img src="img/logo.jpg">
+	<h3>About<span>VEFAM</span></h3>
 
-		<p class="footer-links">
-			<a href="index.php">Home</a>
-			|
-			<a href="about.php">About</a>
-		</p>
+	<p class="footer-links">
+		<a href="index.php">Home</a>
+		|
+		<a href="about.php">About</a>
+	</p>
 
-		<p class="footer-company-name">© 2020 Project by Offside.	
-		</p>
-	</div>
+	<p class="footer-company-name">© 2020 Project by Offside.</p>
+</div>
 
-	<div class="footer-center">
-		<div>
+<div class="footer-center">
+	<div>
 		<i class="fa fa-map-marker"></i>
 		  <p><span>Bulevar Džordža Vašingtona, Podgorica</span>
 			UCG PRIRODNO-MATEMATICKI FAKULTET</p>
-		</div>
-
-		<div>
-			<i class="fas fa-phone"></i>
-			<p>+382 695555555</p>
-		</div>
-		<div>
-			<i class="fa fa-envelope"></i>
-			<p><a href="mailto:">huremovicirvin@gmail.com</a></p>
-		</div>
 	</div>
-	<div class="footer-right">
-		<p class="footer-company-about">
+
+	<div>
+	<i class="fas fa-phone"></i>
+		<p>+382 695555555</p>
+	</div>
+	<div>
+		<i class="fa fa-envelope"></i>
+		<p><a href="mailto:">huremovicirvin@gmail.com</a></p>
+	</div>
+</div>
+<div class="footer-right">
+	<p class="footer-company-about">
 		<span>About the company</span>
-			We are a team of five IT students at University of Montenegro, who agreed
-		to collaborate on a group project for their faculty, and our team is called Offside.</p>
+		We are a team of five IT students at University of Montenegro, who agreed
+to collaborate on a group project for their faculty, and our team is called Offside.</p>
 
-		<div class="footer-icons">
-			<a href="https://www.facebook.com/" id="f1"><i class="fab fa-facebook-f" aria-hidden="true" ></i></a>
-			<a href="https://www.twitter.com/" id="f2"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://www.pinterest.com/" id="f3">	<i class="fab fa-pinterest" aria-hidden="true"></i></a>
-			<a href="https://www.instagran.com/" id="f4"><i class="fab fa-instagram"></i></a>
-			<a href="https://www.youtube.com/" id="f5"><i class="fab fa-youtube"></i></a>
+	<div class="footer-icons">
+<a href="https://www.facebook.com/" id="f1"><i class="fab fa-facebook-f" aria-hidden="true" ></i></a>
+		<a href="https://www.twitter.com/" id="f2"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+<a href="https://www.pinterest.com/" id="f3">	<i class="fab fa-pinterest" aria-hidden="true"></i></a>
+		<a href="https://www.instagran.com/" id="f4"><i class="fab fa-instagram"></i></a>
+		<a href="https://www.youtube.com/" id="f5"><i class="fab fa-youtube"></i></a>
 
-		</div>
 	</div>
+</div>
 </footer>
 
 

@@ -1,0 +1,59 @@
+
+#usernspan{
+	position:relative;
+	top:15px;
+	left:36%;
+	padding:10px;
+	border-top-right-radius:30%;
+border-bottom-left-radius:30%;
+
+}
+#email{
+	position:relative;
+	top:15px;
+	margin-bottom:15px;
+	left:36%;
+	padding:10px;
+
+	border-top-right-radius:30%;
+	border-bottom-left-radius:30%;
+}
+#passspan{
+	position:relative;
+	top:15px;
+	margin-bottom:15px;
+	left:36%;
+	padding:10px;
+
+	border-top-right-radius:30%;
+	border-bottom-left-radius:30%;
+}
+#potvrdaLozinke{
+	position:relative;
+	top:15px;
+	left:36%;
+	padding:10px;
+
+	border-top-right-radius:30%;
+	border-bottom-left-radius:30%;
+}
+#submitt{
+	margin-top:196px;
+}
+#vec{
+	position:relative;
+	top:100px;
+	 text-align:center;
+	 color:black;
+	 text-decoration:none;
+}
+#vec:hover{
+	 color:gray;
+}
+#potvrdaLozinke , #passspan , #usernspan , #email {
+font-size:13px;
+}
+#regform{
+	position:relative;
+	top:-35px;
+}

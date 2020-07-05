@@ -4,7 +4,6 @@
   font-family: Century Gothic;
 
 }
-
 header{
 /*background-color: #00589B;*/
 background-color: #151A16;
@@ -12,110 +11,39 @@ margin-top: 0px;
 padding: 40px;
 }
 
-ul{
-  float: left;
-  list-style-type: none;
-  margin-top: -19px;
-  margin-left: 85px;
-}
 
-ul li{
-  display: inline-block;
-}
-
-ul li a{
-  text-decoration: none;
-  color: #0195D5;
-  padding: 7px 17px;
- border: 1px solid transparent;
-  transition: 0.6s ease;
- font-family: Helvetica, Arial, sans-serif;
- font-size: 17px;
-
-}
-
-ul li a:hover{
-  background-color: white;
-  color: black;
-}
-
-ul li.active a{
-  background-color: white;
-  color: black;
-}
-/* https://www.designevo.com/apps/logo/?name=black-sportsman-and-football*/
-.logo img{
-float: left;
-  width: 145px;
- height: auto;
-height: 80px;
-  margin-top: -40px;
-  margin-left: -74px;
-}
-.rot{
-  color: #0195D5;
-    transition: 0.6s ease;
-    border: 1px solid transparent;
-      border-radius: 1%;
-        padding: 7px 20px;
-
-}
-.rot:hover{
-  background-color: white;
-  color: black;
-}
 .main{
   max-width: 1200px;
   margin: auto;
   background-color: #162C75;
 
 }
-.heder{
-  background-color: red;
+h1{
+  color: white;
+  font-size: 55px;
+  font-weight: 550;
 }
- .title{
-   position: absolute;
-   top: 50%;
-  /* left: 50%;*/
-   transform: translate(17.5%,-80%);
-/*  transform: translate(10%,50%);*/
+ .naslov{
+   color:white;
+margin-top: 140px;
+
+ }
+ .rol{
+   margin-bottom: -300px;
  }
  .title h4{
    color: white;
-   position: absolute;
-  /* left: 50%;*/
-   transform: translate(2.5%, 100%);
-   font-family: "Gill Sans", sans-serif;
-
-/*  transform: translate(10%,50%);*/
+   padding-left: 14%;
+   padding-right: 14%;
+   font-size: 16px;
+   font-weight: 550;
  }
 
- .title h2{
-   color: white;
-   font-size: 53px;
-
- }
- .title h3{
-   color: white;
-
- }
  .podnaslov{
-  /* top: 111%;
-   position: absolute;
-   transform: translate(20%,-50%);
-   font-family: "Gill Sans", sans-serif;*/
    text-align: center;
  }
 
- .button{
-   position: absolute;
-   top: 64%;
-   left: 50%;
-   transform: translate(-50%,-50%);
-   font-family: "Gill Sans", sans-serif;
- }
-
- .btn{
+ .btnd{
    font-family: "Gill Sans", sans-serif;
    border: 1px solid #0074D9;
    background-color: #0074D9;
@@ -124,33 +52,35 @@ height: 80px;
    text-decoration: none;
    transition: 0.6s ease;
  }
- .btn:hover{
+
+
+ .button {
+align-items: center;
+text-align: center;
+   font-family: "Gill Sans", sans-serif;
+ }
+ .btnd:hover{
    background-color: white;
    color: #0074D9;
    border: 1px solid white;
+   text-decoration: none;
  }
 
 
 
 
-#lol{
-  margin-bottom: 130px;
-}
+
 
 
 
 .footer-distributed{
 	background-color:  #151A16;
 	box-sizing: border-box;
-/*	width: 100%;*/
+	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 50px 50px 60px 50px;
-	/*margin-top: 700px;*/
-  clear: both;
-     position: relative;
-     height: 300px;
-     margin-top: -200px;
+	margin-top: 700px;
   font-family: Georgia, serif;
 }
 
@@ -373,7 +303,7 @@ color:#3b5998;
 
 
 
-#chec {
+input {
   display: none;
 }
 
@@ -392,29 +322,26 @@ background-color: inherit;
 label:hover {
 
 }
-.proba > li:last-child{
-  float: right;
-}
 
 .test {
   -webkit-transition: height .3s ease;
   height: 0;
   overflow: hidden;
-  width: 159.9px;
+  width: 145px;
 /*  background: #1A1A1D;*/
 background: #171717;
   margin-top: 22.3px;
-  margin-left: 79.8%;
+  margin-left: 67%;
 }
 .test p a{
   padding-top: 15px;
-  padding-left: 10px;
+  padding-left: 20px;
   color: #CDCCCC;
   text-decoration: none;
   font-family: system-ui;
 }
 .test p{
-  padding: 9px;
+  padding: 10px;
 }
 .test p a:hover{
   color: white;
@@ -534,7 +461,7 @@ border-top-right-radius: 10px;
   -webkit-text-security:circle;
 }
 .login-form .group .label{
-  color: black;
+  color: white;
   font-size:12.5px;
 }
 .login-form .group .button{
@@ -699,145 +626,49 @@ color: white;
   cursor: pointer;
 }
 
-input[type=text], select {
-  width: 80%;
-  padding: 9px 17px;
-  margin: 6px 0;
-  display: inline-block;
-  border-bottom: 2px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  font-size: 15px;
-border-top: none;
-border-left: none;
-border-right: none;
-background-color: inherit;
-}
-
-
-input[type=password] {
-  width: 80%;
-  padding: 9px 17px;
-  margin: 6px 0;
-  display: inline-block;
-  border-bottom: 2px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  font-size: 15px;
-border-top: none;
-border-left: none;
-border-right: none;
-background-color: inherit;
-}
-
-.dugme {
-  width: 100%;
-  background-color: /*#4CAF50*/ #0F4B7F;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.dugme:hover {
-  background-color: #105897;
-}
-
-.oh{
-  padding-bottom: 20%;
-}
-
-.op {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-  margin-bottom: -700px;
-  padding-left: 200px;
-  padding-right: 200px;
-}
-.op form{
-/*  margin-bottom: 250px;*/
-
-}
-.ime{
-  color: black;
-  width: 100%;
-  padding:;
-  margin: ;
-  display: inline-block;
-  font-size: 18px;
-
-}
-
-.bv{
-  display: inline-block;
-}
-
-.presedan{
-  float: left;
-    clear: left;
-}
-
-
-.fab{
-  margin-top: 10px;
-}
 
 
 
-.proba{
-  position: absolute;
-}
 
-.test{
-  position: relative;
-}
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 500px;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-  margin-bottom: 400px;
-}
-
-.title {
-  color: grey;
-  font-size: 18px;
-}
-
-.bu {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-
-.a {
+ul li a{
   text-decoration: none;
-  font-size: 22px;
+  color: #0195D5;
+  padding: 5px 20px;
+ border: 1px solid transparent;
+  transition: 0.6s ease;
+ font-family: Helvetica, Arial, sans-serif;
+ padding: 20px;
+ padding-top: 30px;
+
+}
+
+ul li a:hover{
+  background-color: green;;
+  color: black;
+}
+#navbarSupportedContent ul li a{
+  color: white;
+
+}
+
+#profile a .dropdown-item{
   color: black;
 }
 
-.bu:hover, .a:hover {
-  opacity: 0.7;
+#navbarDropdown #profile{
+  font-size: 25px;
+}
+#profile a:hover{
+  background-color: grey;
+}
+@media (max-width: 1100px) {
+
+#navbarSupportedContent ul li a{
+  margin-top:10px;
+}
 }
 
-
-/*.ok{
- background-color: #f2f2f2;
-
-}*/
-
-.ok {
-	background-color: #C0C5BE;
+#src{
+  color: green;
 }

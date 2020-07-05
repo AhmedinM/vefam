@@ -27,6 +27,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
             exit;
         }
     }
+	
     $uId = $_SESSION["id"];
     $sql4 = "SELECT * FROM user_teams WHERE `user_id` = $uId";
     $res4 = $conn->query($sql4);
@@ -61,7 +62,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     }
     $u = $res2->fetch_assoc();
 
-    if($pr>$u){
+    if($pr>$u["money"]){
         $_SESSION["oldTeamMsg"] = "You don't have enough money for that team";
         header("Location: html.php");
         exit;
@@ -69,7 +70,8 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
 
     for($i=0;$i<11;$i++){   //gk
         $pid = $pl[$i]["id"];
-        $sql3 = "INSERT INTO `user_players` (id,player_id,team_id) VALUES (NULL,$pid,$id)";
+		$tid = $u["id"];
+        $sql3 = "INSERT INTO `user_players` (player_id,team_id) VALUES ($pid,$tid)";
         $res3 = $conn->query($sql3);
         if($res3===false){
             die($conn->error);

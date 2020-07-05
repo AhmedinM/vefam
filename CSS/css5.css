@@ -1,0 +1,532 @@
+.main{
+
+  width: 1000px;
+  height: 650px;
+  position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+/*  background-color: grey;*/
+ background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ;
+	margin: auto;
+
+  border-radius: 25px;
+
+}
+
+.cancel{
+  position: relative;
+  bottom: -5px;
+  right: 17px;
+
+}
+.next{
+  position: relative;
+  bottom: -10px;
+  right: 17px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.teren{
+  position: relative;
+  float: right;
+  height: 85vh;
+ opacity: 1;
+  width: 72vh;
+  display:inline-block;
+
+  background-image: url("../img/stad.png");
+/*  background-size: contain;*/
+background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  margin-right: 15px;
+  margin-top: 20px;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+.igraci{
+  position: relative;
+  /* border: 2px solid blue; */
+  display: inline-block;
+/*  background: linear-gradient(rgba(0,0,0,0.7),rgba(55, 157, 61,0.7)) ;  */
+/*  background: linear-gradient(rgba(34, 183, 44,0.2),rgba(55, 157, 61,0.4)) ; */
+    background: linear-gradient(rgba(41, 119, 208,0.3),rgba(22, 71, 128,0.5)) ;
+  width: 48%;
+  margin-top: 19px;
+  padding-top: 5px;
+  margin-left: 20px;
+  height: 85.3vh;
+  border-radius: 7px;
+}
+
+body, html{
+/*  height: 100%;
+/*  background: #222222;
+/* background-image: url("manager.jpg"); */
+	font-family: 'Lato', sans-serif;
+}
+
+.napadaci{
+/*  border: 2px solid yellow;*/
+  display: none;
+}
+
+.veznii{
+/*  border:2px solid yellow; */
+  display: none;
+}
+
+.odbrambeni{
+/*  border: 2px solid yellow; */
+  display: none;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+	overflow: auto;
+
+}
+
+ul li{
+  color: yellow;
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 30px;
+/*	border-bottom: 2px solid black; */
+  text-align: center;
+  margin: auto;
+  line-height: 35px;
+
+}
+ul li:hover{
+  color:white;
+}
+
+a{
+  margin-top: 2px;
+  text-decoration:none;
+}
+
+.napad1{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+
+height: 70px;
+width: 70px;
+left:40px;
+top:40px;
+margin:0;
+padding:0;
+}
+.napad1:hover{
+cursor:pointer;
+}
+.napad2{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:165px;
+top:30px;
+margin:0;
+padding:0;
+}
+.napad3{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:275px;
+top:40px;
+margin:0;
+padding:0;
+}
+.igrac1{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+display:block;
+height: 70px;
+width: 70px;
+left:60px;
+top:180px;
+margin:0;
+padding:0;
+}
+.vezni2{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:165px;
+top:180px;
+margin:0;
+padding:0;
+}
+.vezni3{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:270px;
+top:180px;
+margin:0;
+padding:0;
+}
+.vezni4{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+display:none;
+left:320px;
+top:180px;
+margin:0;
+padding:0;
+}
+.odbrana1{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:40px;
+top:325px;
+margin:0;
+padding:0;
+}
+.odbrana2{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:120px;
+top:325px;
+padding:0;
+}
+.odbrana3{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:200px;
+top:325px;
+margin:0;
+padding:0;
+}
+.odbrana4{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+left:280px;
+top:325px;
+margin:0;
+padding:0;
+}
+.odbrana5{
+position :absolute ;
+background-image: url("../img/dres.png");
+background-size: contain;
+height: 70px;
+width: 70px;
+display:none;
+left:320px;
+top:180px;
+margin:0;
+padding:0;
+}
+
+.golman1{
+  position :absolute;
+  background-image: url("../img/dres.png");
+  background-size: contain;
+  height: 70px;
+  width: 70px;
+  left:165px;
+  top:400px;
+  margin:0;
+  padding:0;
+}
+/*text igraci imena */
+.napad1txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:50px;
+  top:90px;
+  margin:0;
+  padding:0;
+}
+.napad2txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:175px;
+  top:80px;
+  margin:0;
+  padding:0;
+}
+.napad3txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  width: 70px;
+  left:285px;
+  top:90px;
+  margin:0;
+  padding:0;
+}
+
+.vezni1txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:70px;
+  top:230px;
+  margin:0;
+  padding:0;}
+.vezni2txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:175px;
+  top:230px;
+  margin:0;
+  padding:0;
+}
+.vezni3txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:280px;
+  top:230px;
+  margin:0;
+  padding:0;
+}
+.vezni4txt{
+  position :absolute;
+  display:none;
+  color:white;
+  font-size:12px;
+}
+.vezni5txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+}
+
+.odbrana1txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:50px;
+  top:375px;
+  margin:0;
+  padding:0;
+}
+.odbrana2txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+
+  left:130px;
+  top:375px;
+  padding:0;
+}
+.odbrana3txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:210px;
+  top:375px;
+  margin:0;
+  padding:0;
+}
+.odbrana4txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:290px;
+  top:375px;
+  margin:0;
+  padding:0;
+}
+.odbrana5txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+}
+
+.golman1txt{
+  position :absolute;
+  color:white;
+  font-size:12px;
+  left:175px;
+  top:450px;
+  margin:0;
+  padding:0;
+}
+/*text igraci imena */
+button {
+  position: relative;
+  float: right;
+  margin-bottom: -5px;
+  background-color: #2D3946;
+  color: #ffffff;
+  border: none;
+  padding: 8px 15px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.PrvaForm{
+    border-radius: 10px;
+    background-image: url("../img/teren1.jpg");
+    background-size: contain;
+    display: inline-block;
+    position: absolute;
+    height: 120px;
+    width: 85px;
+    border: 2px solid yellow;
+    top: 490px;
+    left: 11vh;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.DrugaForm{
+  border-radius: 10px;
+  background-image: url("../img/teren2.jpg");
+  background-size: contain;
+  display: inline-block;
+  position: absolute;
+  height: 120px;
+  width: 85px;
+  border: 2px solid yellow;
+  top: 490px;
+  left: 29vh;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.TrecaForm{
+    border-radius: 10px;
+  background-image: url("../img/teren3.jpg");
+  background-size: contain;
+  display: inline-block;
+  position: absolute;
+  height: 120px;
+  width: 85px;
+  border: 2px solid yellow;
+  top: 490px;
+  left: 47vh;
+  cursor: pointer;
+  cursor: hand;
+}
+.vzn{
+  cursor: pointer;
+  cursor: hand;
+  opacity: 0.8;
+}
+.odb{
+  cursor: pointer;
+  cursor: hand;
+  opacity: 0.8;
+}
+.npd{
+  cursor: pointer;
+  cursor: hand;
+  opacity: 0.8;
+}
+.gk{
+  cursor: pointer;
+  cursor: hand;
+  opacity: 0.8;
+}
+
+#klik{
+  cursor: pointer;
+  cursor: hand;
+}
+
+.budzet{
+  font-size: 20px;
+  color: white;
+  margin-left: 140px;
+padding-top: 8px;
+}
+
+#nav {
+    width: 30em;
+    height: 21em;
+    line-height: 2em;
+  /*  border: 1px solid blue; */
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  max-height: 5px;
+}
+
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 5px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 5px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #203A57;
+}
+
+#nav li:nth-child(odd){
+/*  background-color: rgb(8, 141, 17, 0.3);*/
+/*  background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)) ;*/
+    background-color:rgba(0,0,0,0.5);
+}
+.poz{
+  color: white;
+  font-size: 18px;
+  margin-left: 175px;
+}
+.fm{
+  color: white;
+  margin-bottom: -50px;
+}
+.dodaj{
+  margin-left: 175px;
+  color: white;
+  font-size: 17px;
+
+}

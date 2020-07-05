@@ -14,17 +14,21 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
   <head>
     <meta charset="utf-8">
     <title>Welcome</title>
-    <link rel="stylesheet" href="CSS/style.css">
-    <link rel="stylesheet" href="CSS/validate.css">
 
     <link rel="icon" type="image/ico" href="img/logo.jpg" />
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="CSS/style.css">
+<link rel="stylesheet" href="CSS/validate.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
   <script src="JS/js.js" charset="utf-8" defer></script>
    <style>
    body  {
    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/3.jpg) /*repeat 0 0 */ no-repeat center center fixed;
-   height: 70%;
+   height: 20%;
    background-position: center;
 /*  background-repeat: no-repeat;*/
    background-size:cover;
@@ -34,7 +38,7 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
 
   </head>
   <body>
-
+<!--
     <header>
 
     <div class="main">
@@ -43,28 +47,62 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
       </div>
       <ul>
         <li class="active"><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>    <!--class="fas fa-chevron-down" -->
-        
-
-        <!--<label for="chec" class="rot"> <i class="fas fa-user"></i> My Account   <i class="fas fa-angle-down"></i></label>
-
-<input id="chec" type="checkbox">
-
-<div class="test">
- <p> <a id = "myBtn">Sign In</a></p>
- <p><a id = "bat">Sign Up</a></p>
-</div>-->
-
+        <li><a href="about.php">About</a></li>
       </ul>
-
   </div>
+
+-->
+
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#" style = "margin-left:-15px;margin-top:-12.5px; margin-bottom:-12.5px;">
+          <img style="height: 81px;" src="img/logo.jpg" alt="Logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto" >
+          <li class="nav-item active">
+            <a class="nav-link" href="#" id="prvi">My Team</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" >League 1</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="#">League 2</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="#">FM Cup</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="#">Admin</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              My Account
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="profile">
+              <a class="dropdown-item" href="#" style="color:black;">Profile</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#" style="color:black;">Log out</a>
+            </div>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search..." aria-label="Search" id="src">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
 
 
 
 
   <div id="myModal" class="modal">
 
-    <!-- Modal content -->
+
     <div class="modal-content">
       <span class="close">&times;</span>
   <div class="login-wrap">
@@ -117,7 +155,7 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
            <div class="group">
              <br>
              <label for="user" class="label">Username:</label>
-				<input type="text" name="username" placeholder="Enter Username" required  onblur="usernameBlur(this)" id="username" class="input"><span id="usernspan"></span>	
+				<input type="text" name="username" placeholder="Enter Username" required  onblur="usernameBlur(this)" id="username" class="input"><span id="usernspan"></span>
            </div>
            <div class="group">
             <label for="user" class="label">Email:</label>
@@ -146,24 +184,26 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
 
   </div>
 </div>
+</header>
 
-
-
-<div class="bg">
-
-</div>
+<div class="rol">
     <div class="title">
-           <h2>Virtual European Football Association</h2>
-           <h2 class="podnaslov">Of Managers</h2>
+    <div class="naslov">
+      <h1 class="two" style="text-align: center;" > Virtual European Football Association <br>Of Managers</h1><!-- <br> <span class="podnaslov"> Of Managers </span> </h2>-->
+    </div> <br>
            <h4>Create and manage your own football team. Set winning tactics to beat opponents and take your club from dust to glory.</h4> <br>
+     </div>
+<br>
+
+     <div class="button">
+         <a href="#" class="btnd" id="myBtn" >PLAY NOW FOR FREE</a>
+         <a href="#" class="btnd" id="bat" >BECOME A MANAGER</a>
+     </div>
+</div>
     </div>
 
-      <div class="button">
-          <a href="#" class="btn" id="myBtn">PLAY NOW FOR FREE</a>
-          <a href="#" class="btn" id="bat">BECOME A MANAGER</a>
-      </div>
 
-    </header>
+
 
     <footer class="footer-distributed">
 
@@ -270,6 +310,19 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
         dom.style.display = "none";
       }
     }
+</script>
+
+<script>
+// When the user scrolls down 50px from the top of the document, resize the header's font size
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("header").style.fontSize = "30px";
+  } else {
+    document.getElementById("header").style.fontSize = "90px";
+  }
+}
 </script>
 
 

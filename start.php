@@ -29,6 +29,7 @@ $at = null;
 
 $sql1 = "SELECT * FROM `user_teams` WHERE `user_id` = $id";
 $res1 = $conn->query($sql1);
+
 if($res1===false){
   die($conn->error);
 }

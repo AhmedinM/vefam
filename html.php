@@ -134,7 +134,8 @@ background-size:cover;
 <?php
 
 if($msg!==null){
-  echo "<script>alert($msg);</script>";
+  //echo "<script>alert($msg);</script>";
+  echo $msg;
 }
 
 ?>

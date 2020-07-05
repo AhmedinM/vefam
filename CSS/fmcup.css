@@ -1,0 +1,411 @@
+
+
+
+.container {
+
+  background-color: rgba(0, 0, 0, 0.7);
+  
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  border-top-right-radius: 3% ;
+  border-top-left-radius: 3% ;
+ }
+
+
+
+
+ /*---------------------------------------------------FOOTER-----*/
+
+
+/*-------------------------------------------------------kup i liga-----*/
+.table{
+  display: flex;
+justify-content: center;
+  margin-left: 2%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.maina{
+  display: block;
+  
+  margin-left: 10%;
+  padding-top: 5%;
+ 
+  
+  }
+  
+  .a{
+      display: inline-block;
+      width: 40%;
+  
+  }
+  
+  .grupa{
+    width: 100%;
+      border: 1px solid black;
+      border-collapse: collapse;
+      background-color: rgba(228, 225, 225, 0.425);
+      margin-bottom: 5%;
+  
+  }
+  
+  .thead{
+    background-color: #000066;
+    color: white;
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+    height: 40px;
+  }
+  
+  .member{
+    border-collapse: collapse;
+    text-align: center;
+    border-bottom: solid #000066 1px;
+    color: #000066;
+  }
+  
+  .glavna{
+    border: 3px solid #f2f2f2;
+    background-color: #000066;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: -45%;
+  }
+
+.tab{
+  padding-left: 10%;
+}
+.tab button{
+  background-color: midnightblue;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  padding: 14px 16px;
+  transition: 0.3s;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.tab button:hover{
+  background-color:  #171717;
+  color: #0195D5;
+}
+
+
+.tabcontent{
+  display: none;
+  padding: 6px 12px;
+
+  border-top: none;
+
+
+}
+.container .okvir{
+  width: 90%;
+  
+}
+.tournament-headers {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color:#737373;
+  background-color: black;
+  opacity: 0.9;
+
+
+}
+
+
+.bracket_ {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  background-color: black;
+  opacity: 0.9;
+  padding-bottom: 2%;
+  margin-bottom: 5%;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+.bracket {
+  padding-left: 0;
+   display: flex;
+   margin: 0;
+   padding: 30px 0;
+   flex-grow: 1;
+   flex-direction: column;
+   justify-content: space-around;
+   list-style-type: none;
+
+   flex: 1;
+}
+.team-item {
+
+  border: 1px solid #92999f;
+  padding: .5rem;
+  display: block;
+  margin: 5px;
+  position: relative;
+  vertical-align: middle;
+  line-height: 2;
+  text-align: center;
+}
+
+.team-item:after {
+  content:'';
+  border-color: #92999f;
+  border-width: 2px;
+  position: absolute;
+  display: block;
+  width: 10px;
+  right: -11px;
+}
+
+.team-item:nth-of-type(odd):after {
+  border-right-style: solid;
+  border-top-style: solid;
+  height: 100%;
+  top: 50%;
+}
+
+.team-item:nth-of-type(even):after {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  height: 100%;
+  top: -50%;
+}
+
+.team-item:before {
+  content:'';
+  border-top: 2px solid #92999f;
+  position: absolute;
+  height: 2px;
+  width: 10px;
+  left: -11px;
+  top: 50%;
+}
+.team-item1 {
+
+  border: 1px solid #92999f;
+  padding: .5rem;
+  display: block;
+  margin: .5rem 10px;
+  position: relative;
+  vertical-align: middle;
+  line-height: 2;
+  text-align: center;
+}
+
+.team-item1:after {
+  content:'';
+  border-color: #92999f;
+  border-width: 2px;
+  position: absolute;
+  display: block;
+  width: 10px;
+  right: -11px;
+}
+
+.team-item1:nth-of-type(odd):after {
+  border-right-style: solid;
+  border-top-style: solid;
+  height: 100%;
+  top: 50%;
+}
+
+.team-item1:nth-of-type(even):after {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  height: 150%;
+  top: -100%;
+}
+
+.team-item1:before {
+  content:'';
+  border-top: 2px solid #92999f;
+  position: absolute;
+  height: 2px;
+  width: 10px;
+  left: -11px;
+  top: 50%;
+}
+.team-item3 {
+  background-color:black;
+  border: 1px solid #92999f;
+  padding: .5rem;
+  display: block;
+  margin: .5rem 10px;
+  position: relative;
+  vertical-align: middle;
+  line-height: 2;
+  text-align: center;
+}
+
+.team-item3:after {
+  content:'';
+  border-color: #92999f;
+  border-width: 2px;
+  position: absolute;
+  display: block;
+  width: 10px;
+  right: -11px;
+}
+
+.team-item3:nth-of-type(odd):after {
+  border-right-style: solid;
+  border-top-style: solid;
+  height: 300%;
+  top: 50%;
+}
+
+.team-item3:nth-of-type(even):after {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  height: 200%;
+  top: -150%;
+}
+
+.team-item3:before {
+  content:'';
+  border-top: 2px solid #92999f;
+  position: absolute;
+  height: 2px;
+  width: 10px;
+  left: -11px;
+  top: 50%;
+}
+.team-item4 {
+  
+  border: 1px solid #92999f;
+  padding: .5rem;
+  display: block;
+  margin: .5rem 10px;
+  position: relative;
+  vertical-align: middle;
+  line-height: 2;
+  text-align: center;
+}
+
+.team-item4:after {
+  content:'';
+  border-color: #92999f;
+  border-width: 2px;
+  position: absolute;
+  display: block;
+  width: 10px;
+  right: -11px;
+}
+
+.team-item4:nth-of-type(odd):after {
+  border-right-style: solid;
+  border-top-style: solid;
+  height: 0%;
+  top: 50%;
+}
+
+.team-item4:nth-of-type(even):after {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  height: 200%;
+  top: -150%;
+}
+
+.team-item4:before {
+  content:'';
+  border-top: 2px solid #92999f;
+  position: absolute;
+  height: 2px;
+  width: 10px;
+  left: -11px;
+  top: 50%;
+}
+
+.tbl {
+  border:  1px dashed black;
+  background-color: black;
+  border-collapse: collapse;
+  text-align: center;
+  width: 100%;
+
+}
+
+.row{
+  border: 1px solid #000066;
+  background-color:  midnightblue;
+  color: white;
+  
+}
+.roow{
+  border: 1px solid #000066;
+  background-color:  midnightblue;
+  color: white;
+  
+}
+
+.unk{
+  color:  white;
+
+}
+
+
+
+
+.prolaz {
+  background-color: green;
+  color: white;
+}
+
+#slika {
+  margin-left: 40%;
+  border: solid #05045e 5px;
+}
+
+.ispadanje{
+  color: white;
+  background-color: red;
+
+}
+
+
+@media screen and (max-width: 800px){
+  .tab{
+    padding-left: 8%;
+  }
+  .tab button{
+    background-color: midnightblue;
+   
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    padding: 10px 12px;
+    transition: 0.3s;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  .tab button:hover{
+    background-color:  #171717;
+    color: #0195D5;
+  }
+  .member{
+    font-size: 11px;
+  }
+  .roow{
+    border: 1px solid #000066;
+    background-color:  midnightblue;
+    color: white;
+    font-size: 11px;
+  }
+  h3{
+    font-size: 16px;
+  }
+  .unk{
+    color:  white;
+  
+  }
+  
+  
+}
