@@ -1,0 +1,71 @@
+
+/*------------------------------------------------------*/
+
+.sredina{
+  
+display: inline-block;
+  border: 1px solid rgba(2, 0, 42,.9);
+background-color: rgba(2, 0, 42,.9);
+padding-top: 2%;
+padding-bottom: 3%;
+border-radius: 10%;
+color: white;
+
+}
+.bttn{
+  width: 100%;
+  border-radius: 10%;
+  display: block;
+}
+.bttn:hover{
+  background-color: silver;
+  border: 1px solid rgba(2, 0, 42);
+}
+
+
+.dugme{
+  width: 90%;
+}
+.dugme:hover{
+  background-color: silver;
+  border: 1px solid rgba(2, 0, 42);
+}
+.lijevo{
+  width: 20%;
+
+opacity:1;
+display: block;
+}
+.container{
+  display: inline;
+}
+.l{
+  border: 1px solid black;
+  margin-bottom: 5%;
+
+}
+.anc{
+  padding-left: 10%;
+}
+
+.glavni{
+  border: 4px solid rgba(2, 0, 28,0.9);
+  border-radius: 25px;
+background-color: rgba(2, 0, 28,0.9);
+width: 90%;
+margin: 5%;
+padding: 2%;
+
+}
+
+
+
+#chec {
+  display: none;
+}
+
+
+
+.con {
+	background-color: #C0C5BE;
+}

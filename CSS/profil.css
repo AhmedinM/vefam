@@ -34,10 +34,10 @@ ul li a{
 
 }
 
-ul li a:hover{
+/*ul li a:hover{
   background-color: white;
   color: black;
-}
+}*/
 
 ul li.active a{
   background-color: white;

@@ -17,7 +17,9 @@ function getPlayers($websiteURL){  //sofascore.com -> tim
     $niz1 = [];
     $niz2 = [];
     $i = 0;
-    foreach($html->find('.squad-player') as $postDiv){
+	
+    /*foreach($html->find('.squad-player') as $postDiv){
+		die($postDiv);
         $poc1 = $postDiv->find('.squad-player__name');
         $poc2 = $postDiv->find('.squad-player__position');
         foreach($poc1 as $res1){
@@ -26,6 +28,30 @@ function getPlayers($websiteURL){  //sofascore.com -> tim
         }
         foreach($poc2 as $res2){
             $niz2[] = str_replace(" ","",$res2->text());
+        }
+    }*/
+	foreach($html->find('.cAhval') as $postDiv){
+        //die($postDiv);
+		$poc1 = $postDiv->find('.cKwGqp');
+        $poc2 = $postDiv->find('.componentStyles__Position-sc-8o3g86-12');
+		//echo implode(" ",$poc1);
+        foreach($poc1 as $res1){
+            //echo $res1->text()."<br/>";
+            $niz1[] = $res1->text();
+        }
+        foreach($poc2 as $res2){
+            echo $res2->text()."<br>";
+			//$niz2[] = str_replace(" ","",$res2->text());
+			$p = $res2->text();
+			if($p=='F'){
+				$niz2[] = 'Forward';
+			}else if($p=='M'){
+				$niz2[] = 'Midfielder';
+			}else if($p=='D'){
+				$niz2[] = 'Defender';
+			}else if($p=='G'){
+				$niz2[] = 'Goalkeeper';
+			}
         }
     }
     for($j=0;$j<count($niz1);$j++){

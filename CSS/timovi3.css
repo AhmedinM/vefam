@@ -11,6 +11,11 @@ margin-top: 0px;
 padding: 40px;
 }
 
+
+body {
+	background-color: #C0C5BE;
+}
+
 ul{
   float: left;
   list-style-type: none;
@@ -32,10 +37,10 @@ ul li a{
 
 }
 
-ul li a:hover{
+/*ul li a:hover{
   background-color: white;
   color: black;
-}
+}*/
 
 ul li.active a{
   background-color: white;
@@ -787,3 +792,4 @@ font-size: 20px;
   color: white;
   background-color: #105897;
 }
+

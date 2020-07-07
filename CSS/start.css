@@ -1,0 +1,73 @@
+.container{
+  background-color: rgba(4, 4, 15, 0.74);
+  padding: 5%;
+  border-radius: 25px;
+  color: white;
+  
+}
+.newPlBtn{
+  border: solid 2px white;
+  background-color: midnightblue;
+  color: white;
+  border-radius: 25px;
+  padding: 15px;
+  margin-left: 80%;
+}
+.poruka{
+  margin-left:25%; 
+  margin-right:25%; 
+  margin-top: 10px; 
+  padding-left: 3%;
+  padding-right: 3%;
+  border: solid 3px red; 
+  background-color: rgba(231, 80, 80, 0.74);
+  color: white;
+  border-radius: 25px;
+
+}
+.newPlBtn:hover{
+  background-color: white;
+  border: solid 2px midnightblue;
+  color: midnightblue;
+
+}
+ .button{
+   position: absolute;
+   top: 64%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   font-family: "Gill Sans", sans-serif;
+ }
+
+ .btn{
+   font-family: "Gill Sans", sans-serif;
+   border: 1px solid #0074D9;
+   background-color: #0074D9;
+   padding: 11px 31px;
+   color: white;
+   text-decoration: none;
+   transition: 0.6s ease;
+ }
+ .btn:hover{
+   background-color: white;
+   color: #0074D9;
+   border: 1px solid white;
+
+ }
+.players{
+  border: 1px solid white;
+  padding: 3%;
+  border-radius: 25px;
+  color: whitesmoke;
+  background-color: rgba(18, 18, 26, 0.815);
+  
+}
+.players:hover{
+  border: 3px solid white;
+}
+.naslov{
+  padding-left: 10%;
+}
+
+
+

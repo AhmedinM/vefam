@@ -52,35 +52,37 @@ $pos = null;
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto" >
           <li class="nav-item active">
-            <a class="nav-link" href="#" id="prvi">My Team</a>
+            <a class="nav-link" href="start.php" id="prvi">My Team</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" >League 1</a>
+            <a class="nav-link" href="league1.php" >League 1</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#">League 2</a>
+              <a class="nav-link" href="league2.php">League 2</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#">FM Cup</a>
+              <a class="nav-link" href="fmcup.php">FM Cup</a>
           </li>
-          <li class="nav-item">
-              <a class="nav-link" href="#">Admin</a>
-          </li>
+          <?php if(isset($_SESSION["admin"]) && $_SESSION["admin"]==1){
+			echo "<li class=\"nav-item\">
+            <a class=\"nav-link\" href=\"panel.php\">Admin</a>
+			</li>";
+		} ?>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               My Account
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="profile">
-              <a class="dropdown-item" href="#" style="color:black;">Profile</a>
+              <a class="dropdown-item" href="profil.php" style="color:black;">Profile</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#" style="color:black;">Log out</a>
+              <a class="dropdown-item" href="logout.php" style="color:black;">Log out</a>
             </div>
           </li>
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search..." aria-label="Search" id="src">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
+        <form class="form-inline my-2 my-lg-0"method="post" action="pretraga.php">
+			<input class="form-control mr-sm-2" type="search" name="search" placeholder="Search..." aria-label="Search" id="src">
+			<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+		</form>
       </div>
     </nav>
 

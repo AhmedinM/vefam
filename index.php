@@ -65,35 +65,12 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto" >
           <li class="nav-item active">
-            <a class="nav-link" href="#" id="prvi">My Team</a>
+            <a class="nav-link" href="index.php" id="prvi">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" >League 1</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="#">League 2</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="#">FM Cup</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="#">Admin</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              My Account
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="profile">
-              <a class="dropdown-item" href="#" style="color:black;">Profile</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#" style="color:black;">Log out</a>
-            </div>
+            <a class="nav-link" href="about.php" >About</a>
           </li>
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search..." aria-label="Search" id="src">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
       </div>
     </nav>
 
@@ -171,7 +148,7 @@ if(isset($_SESSION["logged"]) && $_SESSION["logged"]===true){
              <br>
            </div>
            <div class="group">
-             <input type="submit" id="submitt" class="button" value="Register">
+             <input type="submit" class="button" value="Register">
            </div>
 		   <div class="group" id="vec">
 		    <!--<a href="log.html">Already regitered?</a>-->

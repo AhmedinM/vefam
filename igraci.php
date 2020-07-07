@@ -47,7 +47,15 @@ while($row1 = $res1->fetch_assoc()){
     <head>
         <title>Players</title>
         <meta charset="utf-8">
-        <title></title>
+        
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		
+		<link rel="stylesheet" href="CSS/styleI.css">
+		<link rel="stylesheet" href="CSS/validateI.css">
+		
         <link rel="stylesheet" href="CSS/timovi3.css">
         <link rel="icon" type="image/ico" href="img/logo.jpg" />
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -55,7 +63,7 @@ while($row1 = $res1->fetch_assoc()){
     </head>
     <body>
 
-    <header>
+    <!--<header>
 
 <div class="main">
   <div class="logo">
@@ -68,9 +76,9 @@ while($row1 = $res1->fetch_assoc()){
 	<li><a href="league2.php">League 2</a></li>
 	<li><a href="fmcup.php">FM Cup</a></li>
 	<li><a href="pretraga.php">Search</a></li>
-	<?php if(isset($_SESSION["admin"]) && $_SESSION["admin"]==1){
+	<?php /*if(isset($_SESSION["admin"]) && $_SESSION["admin"]==1){
     echo "<li><a href=\"panel.php\">Admin</a></li>";
-  }?>
+  }*/?>
 	<label for="chec" class="rot"> <i class="fas fa-user"></i> My Account <i class="fas fa-angle-down"></i></label>
 
 <input id="chec" type="checkbox">
@@ -83,13 +91,59 @@ while($row1 = $res1->fetch_assoc()){
   </ul>
 
 </div>
-</header>
+</header>-->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#" style = "margin-left:-15px;margin-top:-12.5px; margin-bottom:-12.5px;">
+        <img style="height: 81px;" src="img/logo.jpg" alt="Logo">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto" style="margin-bottom: -20px;">
+        <li class="nav-item">
+          <a class="nav-link" href="start.php" id="prvi">My Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="league1.php" >League 1</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="league2.php">League 2</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="fmcup.php">FM Cup</a>
+        </li>
+		<?php if(isset($_SESSION["admin"]) && $_SESSION["admin"]==1){
+			echo "<li class=\"nav-item\">
+            <a class=\"nav-link\" href=\"panel.php\">Admin</a>
+			</li>";
+		} ?>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            My Account
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="profile">
+            <a class="dropdown-item" href="profil.php" style="color:black;">Profile</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="logout.php" style="color:black;">Log out</a>
+          </div>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0"method="post" action="pretraga.php">
+        <input class="form-control mr-sm-2" type="search" name="search" placeholder="Search..." aria-label="Search" id="src">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
 
 
 
         <div class = "op">
           <br> <br> <br>
-          <h1 class="cent">List of Teams</h1> <br>
+          <h1 style="color: black;" class="cent">List of Players</h1> <br>
           <ul class="opa">
             <br>
             <?php 

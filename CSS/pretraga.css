@@ -11,6 +11,10 @@ margin-top: 0px;
 padding: 40px;
 }
 
+body {
+	background-color: #C0C5BE;
+}
+
 ul{
   float: left;
   list-style-type: none;
@@ -726,7 +730,7 @@ input[type=text], select {
 
 .op {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  
   padding: 20px;
   margin-bottom: -700px;
   padding-left: 200px;
